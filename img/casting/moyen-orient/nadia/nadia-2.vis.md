@@ -1,4 +1,4 @@
-## Image (resized) by Layla - 2026-10-06 19:02 UTC
+## Image (resized) by Layla - 2026-10-06 20:00 UTC
 ### Context
 A smaller copy of /images/nadia-cast-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
