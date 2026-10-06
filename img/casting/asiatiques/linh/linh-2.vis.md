@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 20:11 UTC
+### Context
+A smaller copy of /images/linh-cast-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic, AI-generated portrait of a young woman shown from roughly the hips up, centered in the frame and facing the camera. She has fair skin, long straight black hair parted in the middle that falls past her shoulders, almond-shaped dark eyes, and a neutral, calm expression with softly defined lips. She wears a pale pink ao dai: a fitted, high mandarin-collar bodice with long sleeves, a central front seam, and a flowing pleated skirt; the fabric hugs her slender, curved frame and fuller bust, with a slight sheen catching the light.
+
+The setting is a narrow alley at night, presumably Hanoi. The background is softly out of focus, showing warm glowing lanterns and string lights overhead, a brick wall to the right, terracotta planters with green foliage, and a receding path on the left, all rendered as creamy bokeh. The lighting is warm and directional, casting soft highlights on her face, shoulders, and the front of the dress while leaving her sides in gentle shadow. The overall palette is dominated by warm ambers, golds, and the soft pink of the garment against the cool, dim surroundings. The composition is a medium, centered portrait with shallow depth of field, emphasizing the subject. There is no visible text. The mood is intimate, serene, and gracefully romantic.

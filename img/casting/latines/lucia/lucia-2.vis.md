@@ -1,9 +1,17 @@
-## Image (resized) by Layla - 2026-10-06 19:02 UTC
+## Image (resized) by Layla - 2026-10-06 20:11 UTC
 ### Context
-A smaller copy of /images/lucia-cast-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/lucia-cast-v2-2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
-A photorealistic portrait, vertically framed, of a young woman seated at a table in what appears to be a cafe. She is the central subject, shown from roughly the waist up, turned slightly toward the camera with a relaxed posture and a faint closed-mouth smile. Her hair is honey-blonde with darker roots, falling in loose waves past her shoulders and framing her face; warm light catches the top and right side of her head. She has tanned olive skin, dark brown eyes, soft facial features, and full lips. She wears a fitted white scoop-neck top with short sleeves, and a hint of dark denim and a metal belt buckle is visible at the bottom edge of the frame.
+A vertical, photorealistic portrait of a young woman in her mid-twenties, depicted as Brazilian, standing outdoors against a sunlit wall. She has warm tanned skin, long wavy honey-blonde hair that falls past her shoulders, and dark brown eyes. She wears a fitted white sleeveless crop top with a low square neckline and what appears to be matching white bottoms visible at the waist. Her posture is relaxed: she leans her back and right shoulder against a wall, body angled slightly toward the camera, with a soft closed-lip smile. Her expression is calm and friendly.
 
-The setting is an interior cafe near a large window on the right side of the image. Through the glass, an out-of-focus outdoor scene is visible, including a blurred vehicle and hints of foliage, suggesting a street outside. A wooden windowsill and window frame run vertically on the right. To the left, the background is darker and softly blurred, with the indistinct shape of a chair and warm dim interior tones. She sits on a wooden chair at a wooden table whose edge appears in the lower foreground.
+Composition and framing: medium shot, roughly waist-up, centered slightly right of frame. The woman occupies the right two-thirds of the image. The left third shows a receding street or alley lined with a row of pastel-coloured buildings (pale pink, yellow, mint green) fading into soft focus toward the background. Above and to the left, clusters of bright magenta bougainvillea flowers with green foliage hang into the frame.
 
-Lighting is warm and directional, consistent with morning sunlight entering from the window on the right, casting soft highlights on her hair, right cheek, and shoulder, while the left side falls into gentle shadow. The color palette is dominated by warm tones: the white top, golden-blonde hair, tan skin, and brown wood contrast with the cooler, darker blurred background and the grey-blue window light. The medium is digital photography (or AI-generated photorealism), with shallow depth of field isolating the subject from the background. No visible text, captions, watermarks, cookie banners, or interface elements appear in the image. The overall mood is calm, natural, and warm.
+Colours and light: dominated by warm golden-hour sunlight casting a strong warm tone across the scene. The wall behind her is a warm peachy-pink, throwing a crisp shadow of her silhouette and the bougainvillea leaves onto its surface. The white crop top contrasts against the warm skin and wall. The pastel street provides soft complementary colours in the blurred background. The overall palette is warm, sun-drenched, and high in saturation.
+
+Setting: implied to be a street in Santa Teresa, Rio de Janeiro, with colonial-style pastel walls and bougainvillea.
+
+Style/medium: AI-generated photorealistic image, smooth skin texture, sharp focus on the subject with shallow depth of field blurring the background.
+
+Text: none visible.
+
+Mood: warm, relaxed, pleasant, golden and romantic.
