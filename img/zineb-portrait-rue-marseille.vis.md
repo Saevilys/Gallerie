@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-05 21:32 UTC
+### Context
+A smaller copy of /images/zineb-portrait-rue-marseille.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically framed, waist-up selfie portrait of a young woman, roughly in her mid-twenties, captured with the front camera of a smartphone. She stands centered, facing the lens directly with steady eye contact and a calm, expressionless, at-rest face — neither smiling nor frowning, but quietly attentive. Her features include light olive skin with visible natural texture, high prominent cheekbones, full lips with a defined cupid's bow, thick dark eyebrows arched slightly upward, and dark brown eyes. Her straight dark brown hair is center-parted and pulled back, with a few loose strands framing the temples; a small gold earring is visible on her left ear. Around her neck is a thin gold chain with a small round pendant. She wears a charcoal/dark grey blazer over a white button-down shirt with the top two buttons undone, exposing her collarbone and chest; a button is visible lower on the shirt. Her right arm extends out of frame on the right side, consistent with a selfie pose.
+
+The setting is a narrow old street at dusk. Cobblestone pavement is visible on the left, receding into the background, and weathered pale stone buildings line both sides of the lane, with dark recessed windows and doorways. A warm amber streetlight casts light across her face from one side, leaving the opposite side in cooler shadow, while a patch of pale blue dusk sky is visible above between the buildings.
+
+The image has the look of an unedited raw smartphone photo: mild film grain, soft focus in the background, realistic skin detail, and no visible text or overlays. The overall mood is quiet, grounded, and observant — a candid street portrait rather than a styled photograph.
