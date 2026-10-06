@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-06 06:44 UTC
+### Context
+A smaller copy of /images/leilani-cast.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical selfie-style portrait of a young woman, likely in her mid-twenties, with Polynesian features, photographed against a tropical beach backdrop. She occupies the center and most of the frame, shot from a close, slightly elevated selfie angle with one shoulder visible in the foreground, suggesting her arm is extended toward the camera. She has golden-brown sun-tanned skin with visible freckles and natural pores across her cheeks and nose, dark brown eyes, and a broad, warm smile showing white teeth. Her hair is long, thick, straight, and black, falling over her shoulders and slightly windswept. A single white frangipani (tiare) flower with a yellow center is tucked behind her left ear. She wears a white spaghetti-strap top with a small clasp or snap at the neckline.
+
+Behind her is a vivid turquoise lagoon that fills the lower and middle background, with a pale sandy beach and green coconut palm trees on a distant headland to the upper left. The sky above is blue with scattered white cumulus clouds. Bright, direct tropical sunlight illuminates her face and casts soft shadows on her neck and chest, giving a strong outdoor midday feel.
+
+The medium appears to be a grainy smartphone photo, with natural skin texture and a shallow depth of field that keeps the woman sharp while the water and palms are softly rendered. Colors are saturated—warm skin tones, deep black hair, bright white flower and top, and clear blue-green water. There is no visible text. The overall mood is cheerful, relaxed, and vacation-like. The image has characteristics of an AI-generated photograph, including slightly overly smooth facial features and generic tropical scenery.

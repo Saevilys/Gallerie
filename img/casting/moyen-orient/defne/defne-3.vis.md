@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 12:09 UTC
+### Context
+A smaller copy of /images/defne-cast-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A night-time selfie photograph showing a woman from the waist up, framed in a close-up portrait orientation. She has long dark brown hair falling in loose waves past her shoulders, hazel-brown eyes, defined arched eyebrows, and full lips curving into a faint closed-mouth smile. Her skin shows natural texture with visible pores and slight facial lines, consistent with a grainy phone-camera render. She wears a low-cut black slip dress with thin straps and a deep V neckline exposing her décolletage, along with layered thin gold necklaces, one with a small pendant.
+
+In the background on the left stands an illuminated stone tower with a conical roof, brightly lit against the dark sky, positioned near the waterfront. The dark water of a strait or river stretches behind her, reflecting scattered warm city lights and lamp glints. A grey metal bridge railing with decorative lattice work runs horizontally across the lower portion of the frame, and a row of streetlights and lit buildings lines the far shore. The lighting is dim ambient night light with warm artificial highlights on the tower and water reflections, while the subject's face is lit more evenly, likely by the phone's screen or nearby light. The overall mood is casual and intimate, a typical candid travel selfie. No text, logos, watermarks, or interface elements are visible in the image.

@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-05 19:07 UTC
+### Context
+A smaller copy of /images/maia-v4-2-toit.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A medium close-up portrait of a young woman, roughly in her early twenties, leaning back against a weathered grey stone or concrete parapet wall on what appears to be a rooftop. She faces the camera with her head tilted slightly to her right, laughing openly with a wide, teeth-showing smile and crinkled eyes. Her skin is a warm medium-brown tone, and she has short, straight black hair falling to just below her ears with a loose part. She wears a plain white fitted crew-neck t-shirt; the garment clings to her upper chest and waist, and a small band of dark denim is visible at the very bottom edge. Her right arm rests along the top of the wall, hand relaxed, while her left arm is partly visible at the side.
+
+The composition places her off-center to the right, occupying most of the frame from mid-thigh up, with the wall's textured surface running along the lower-left corner. The background is a shallow depth-of-field blur of a cityscape: hazy tan and grey building shapes, a reddish-brown tiled roof to the right, and a pale, bright sky above. Strong warm afternoon sunlight falls from behind and to the left of the subject, producing a soft rim-light on her hair, shoulder, and arm, and casting gentle shadows across the front of her shirt. The lighting is bright and airy.
+
+Colors are dominated by the white shirt, the warm skin tone, the dark hair, and the muted earth tones of the rooftop and city backdrop. The overall mood is casual, warm, and candid, like a spontaneous outdoor portrait. There is no visible text, watermark, logo, cookie banner, or user interface in the image. The rendering is smooth and clean with no visible grain, consistent with a digital photograph or realistic AI-generated portrait.

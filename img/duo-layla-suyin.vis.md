@@ -1,0 +1,5 @@
+## Image (resized) by Layla - 2026-10-05 20:22 UTC
+### Context
+A smaller copy of /images/duo-layla-suyin-final.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+Two women sit closely together on a beige sofa, photographed indoors in soft, warm interior lighting. On the left, a woman with dark shoulder-length wavy hair and round gold-framed glasses wears a black ribbed turtleneck sweater; her right arm rests around the other woman. On the right, a woman with dark hair pulled into a high bun wears a light grey crewneck sweater that clings to a notably full bust and wider hips — a curvier figure consistent with the described edit. Behind them, a window on the left shows rain droplets on glass with blurred greenery outside, while on the right a cream table lamp with a pleated shade glows on a side table against a pale wall. The composition is a medium close-up, centered framing, with the two figures filling most of the frame; the mood is calm and intimate. No visible text.

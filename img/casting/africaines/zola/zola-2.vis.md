@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 11:44 UTC
+### Context
+A smaller copy of /images/zola-cast-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic portrait photograph showing a young Black woman from the waist up, positioned slightly off-center and facing the camera with a broad, open-mouthed smile revealing white teeth. She has deep brown skin, high cheekbones, and long dark box braids pulled in a half-up, half-down style that drapes down both sides of her shoulders and chest. She wears a bright orange low-cut sleeveless top with an open lace or crochet-like pattern along the deep V-neckline. The lighting is warm and directional from the right, casting soft highlights on her face, shoulders, and chest while leaving the left side in gentle shadow, consistent with golden-hour sunlight.
+
+Behind her is a coastal beachfront setting: a wooden boardwalk or paved promenade bordered by a low metal railing runs along the left, with a stretch of sandy beach and calm blue-grey ocean visible beyond it. To the right stand tall palm trees and a grassy path where a few small, blurred figures of people are walking in the distance. The sky is pale blue with light clouds. The overall color palette contrasts the warm oranges and browns of the subject with the cooler blues and greens of the sea, sky, and palms. The image has a casual, candid selfie quality with natural skin texture and realistic detail, conveying a relaxed, cheerful, warm mood. No text is visible.

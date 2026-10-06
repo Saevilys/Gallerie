@@ -1,0 +1,5 @@
+## Image (resized) by Layla - 2026-10-06 06:47 UTC
+### Context
+A smaller copy of /images/leilani-cast-v3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A selfie-style portrait of a young woman seated on a paddleboard in a bright turquoise lagoon. She has sun-kissed golden-brown skin, long wavy dark hair blowing to one side, dark brown eyes, and full lips, captured mid-laugh with her mouth open and teeth showing. She wears a white open-crochet top with thin straps and a low-cut neckline revealing her décolleté. Her right arm extends toward the camera in a classic selfie pose, framing her torso from the waist up. The board beneath her shows white edges with a blue stripe. In the background, calm aquamarine water stretches to a range of green mountains on the left under a blue sky with scattered white clouds; a low island is visible on the right. The lighting is bright, direct midday tropical sunlight, producing strong highlights on her skin and hair. The style mimics a casual, slightly grainy phone photo with natural skin texture. No text is visible. The overall mood is carefree, warm, and joyful.

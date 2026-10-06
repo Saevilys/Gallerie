@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 06:45 UTC
+### Context
+A smaller copy of /images/pailin-cast.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A close-up selfie portrait of a young Southeast Asian woman, roughly in her early twenties, framed from the chest up and centered in the frame. She has long, straight black hair parted in the middle that falls past her shoulders, warm golden-brown skin, dark brown eyes, a small nose, and a subtle, closed-mouth mischievous smile. Her arms are extended toward the camera, consistent with a hand-held selfie angle, which introduces a slight wide-angle perspective distortion. She wears a plain white short-sleeved top; the framing cuts off at the chest so the garment reads as a t-shirt rather than a visible crop top.
+
+Behind her, out of focus, are the gilded spires (prangs) of a Thai temple, with ornate golden finials and red-and-green painted architectural trim on the roofs, set against a pale, warm sky. The lighting is soft late-afternoon sun, casting a golden glow on her face and the temple spires and producing a warm color palette dominated by gold, amber, white, and muted greens and reds. The image has the look of a phone snapshot: slightly grainy, natural skin texture with visible pores, no heavy retouching. There is no visible text, watermark, or overlaid interface element. The overall mood is casual, warm, and candid, as of a tourist selfie taken at a temple site in the golden hour.

@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-06 11:49 UTC
+### Context
+A smaller copy of /images/zola-cast-v1-fix.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical portrait selfie of a Black woman with dark skin, taken on a tropical beach. She is centered in the frame, facing the camera and smiling broadly with her teeth showing. Her hair, which has been altered from the original, is now styled in long, thick black box braids that fall naturally down past her shoulders and drape over her chest and shoulders; the braids catch the light with visible highlights along each strand. She wears a sleeveless top or dress in earthy brown and tan tones featuring decorative beadwork, sequins, and patterned trim around the neckline and bodice. One arm extends toward the camera in a selfie pose, her bare shoulder and upper arm visible on the right side of the frame.
+
+The setting is a sunny beach: pale sand in the lower foreground, the turquoise and white-foamed edge of the ocean to the left, and a line of tall palm trees with green fronds along the right edge. The sky is a clear, bright blue with a few faint wisps of cloud. Lighting is strong, direct daylight coming from above and the side, casting crisp shadows across her chest and neck and producing bright highlights on her skin and the braids.
+
+The composition is a medium close-up selfie shot, framed roughly from the upper torso to the head, with the woman occupying most of the frame and the beach scenery providing a soft background. The colors are warm and saturated—deep browns and tans of the subject, vivid blues of the sky and sea, green foliage, and sandy beige. The overall medium is a digital photograph, evidently edited to modify the hairstyle while preserving the face, outfit, background, and lighting. There is no visible text, watermark, or logo. The mood is cheerful, relaxed, and warm, conveying a happy, casual beach moment.

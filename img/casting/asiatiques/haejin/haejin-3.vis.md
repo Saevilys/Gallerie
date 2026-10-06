@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-06 06:45 UTC
+### Context
+A smaller copy of /images/haejin-cast-v3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical selfie-style photograph showing a woman from the waist up, positioned slightly left of center in the foreground. She appears to be in her mid-to-late twenties, with fair skin, monolid eyes, a defined jawline, and a wavy dark-brown bob cut that ends just above the shoulders. Her expression is a soft, closed-mouth smile, relaxed and confident. She wears a low-cut, cream-colored silk slip top with thin spaghetti straps, the neckline dipping to expose her décolleté and one collarbone; the fabric has a soft sheen. Her left arm (right side of frame) rests on a pale metal railing with vertical bars, hand visible against the post. The framing is a close selfie angle, slightly off-axis, with her shoulder and torso filling the lower-left portion of the image.
+
+Behind her is a city stream or canal running straight into the distance, bordered by concrete embankments and lit pathways. The water is dark blue-black, reflecting scattered points of city light as small bokeh streaks. In the mid-ground and background, modern high-rise buildings line both banks, their windows glowing warm yellow and white against a deep blue dusk sky. A lit bridge spans the water farther back. The overall lighting is cool blue evening light with warm highlights from the urban lights, giving a contrast between cool shadows on the water and sky and the warmer tones on the woman's skin and the cream top.
+
+The image has a grainy, phone-camera quality with natural skin texture and visible pores, soft focus on the background, and a slightly low-light, candid aesthetic. There is no visible text, watermark, or overlay. The mood is calm, intimate, and urban, capturing a quiet nighttime moment against a vibrant city backdrop.

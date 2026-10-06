@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-05 21:14 UTC
+### Context
+A smaller copy of /images/nour-gen3-marseille-golden.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A waist-up photographic portrait of a young woman, positioned centrally in the frame and facing the camera with direct eye contact. She has olive skin with visible freckles across her cheeks, dark brown large heavy-lidded eyes, thick dark low-set straight eyebrows, high prominent cheekbones, a square jawline, full lips with a defined cupid's bow, and a small beauty mark on her right cheek. Her dark brown wavy mid-length hair is being gently moved by wind, with strands lifting away from her face on the right side. She wears a black long-sleeved turtleneck and a thin gold chain necklace with a small round pendant resting at her collarbone. Her expression is confident and calm, with a faint smirk.
+
+The setting is a rooftop terrace at golden hour; behind her, blurred terracotta-tiled rooftops and pale building facades of a Mediterranean city stretch across the frame, with the sea visible at the horizon on the left. Warm sunset light falls across her face and shoulders, casting soft shadows and giving the skin a natural texture with visible pores and film grain, consistent with a 35mm photographic style. The composition is a front-camera selfie framing, centered on her face and upper body, with no phone or holding arm visible. The overall mood is intimate, confident, and warm, evoking a quiet late-afternoon moment above the city.

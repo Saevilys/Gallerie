@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-06 06:44 UTC
+### Context
+A smaller copy of /images/ines-cast-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically framed selfie-style portrait of a young woman seated outdoors at sunset. She is positioned slightly right of center, facing the camera with her left arm extended toward the viewer, simulating a handheld selfie shot. She has warm caramel-brown skin, long dark brown wavy hair falling loose past her shoulders, dark brown eyes, and full lips parted in a confident, knowing smirk directed at the lens. She wears large gold hoop earrings. Her clothing is a fitted deep-red wrap dress with a deep V-neckline that exposes her décolleté; the dress has short sleeves and a cinched waist with a tied sash detail. Her body is visible from roughly the waist up, with her right arm resting near her lap.
+
+The setting is a painted masonry seawall or promenade barrier. Immediately behind and to her left is a section of wall painted a weathered blue; stretching away to the right is the same wall in bands of yellow, orange, and red, receding into soft-focus distance. A hint of water or open sky is visible beyond the wall on the right. The background is blurred with shallow depth of field, emphasizing the subject.
+
+Lighting is warm golden-hour sunlight from the left, casting orange tones across her skin, the red dress, and the wall, with gentle shadows on the right side of her face and body. The image has the texture of a phone camera photo: natural skin texture with visible pores, slight grain, and realistic imperfections, consistent with a candid selfie aesthetic. The overall mood is warm, relaxed, and confident, evoking a tropical coastal evening. No text, watermarks, or interface elements are visible. The style is photorealistic digital photography.

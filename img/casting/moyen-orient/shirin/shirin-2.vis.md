@@ -1,0 +1,11 @@
+## Image (resized) by Layla - 2026-10-06 12:09 UTC
+### Context
+A smaller copy of /images/shirin-cast-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented smartphone-style selfie photograph of a young woman positioned in the left-center of the frame, looking directly into the camera with a calm, confident, slightly closed-lip expression. She has warm golden-olive skin with visible pores and realistic texture, long thick black wavy hair falling past her shoulders and framing her face, dark almond-shaped eyes, strong defined dark eyebrows, and full lips with no visible heavy makeup. She wears gold filigree earrings and a low-cut midnight blue (dark navy) blouse with a deep V-neckline that exposes her décolletage and cleavage; the fabric has a subtle textured, slightly sheer quality with fine detailing. Her body is angled toward the camera, her right arm extended toward the lens as if holding the phone, consistent with a selfie angle.
+
+The background is an ornate interior corridor strongly resembling a grand bazaar, with a vaulted arched ceiling decorated in colorful geometric tilework and mosaic patterns in blues, greens, golds, and earth tones. Hanging lanterns emit warm yellow-orange light along the ceiling, and additional wall-mounted light fixtures glow on the left wall. The corridor recedes into the distance on the right side, where dim figures of people are faintly visible walking in the background. The depth of field keeps the woman sharply focused while the background tiles and distant lanterns are slightly softer.
+
+Color palette: dominant deep blues and navy on the subject's clothing and the tilework, contrasted with warm golden-amber lighting from the lanterns and her skin tones. Lighting is warm and directional from the hanging lamps, creating soft highlights on her face and shoulders and gentle shadows across her chest. The overall style mimics a raw, unedited smartphone camera shot with realistic skin detail and no painterly or brush-stroke effects.
+
+No visible text, captions, watermarks, logos, or on-screen interface elements appear in the image. The mood is intimate, warm, and poised, combining the subject's confident expression with the richly decorated historical architecture behind her.

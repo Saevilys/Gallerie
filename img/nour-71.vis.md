@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-05 20:38 UTC
+### Context
+A smaller copy of /vault/nour/nour-ref-71-cafe-sourire.png (880×1168 → 880×1168, jpg) — the same picture; the original is untouched.
+### Vision
+A candid portrait photograph of a woman with dark, curly shoulder-length hair, fair skin, and dark eyes, looking directly into the camera with a faint, relaxed smile. She is seated at an outdoor café table, captured in a selfie-style framing: her right arm extends toward the lens, suggesting she is holding the camera. She wears a black spaghetti-strap camisole with a small gold pendant necklace and an unbuttoned light-blue denim jacket draped loosely off her shoulders, one sleeve bunched down her arm.
+
+In the immediate foreground sits a clear drinking glass of water on a round table with a speckled grey-and-white marble edge; a small white paper slip or napkin is partly visible beside it. The background is rendered in shallow depth of field, heavily blurred: a European street (Parisian architecture is suggested by the Haussmann-style façades), glowing street lamps and car headlights forming warm circular bokeh, a maroon-and-white striped café awning overhead, and the soft shapes of other seated patrons to the right.
+
+The lighting is warm and low, consistent with dusk or the golden hour, casting a soft glow on her face while the surroundings fall into warm amber and darkened shadows. The overall palette contrasts the deep blacks of her top and hair against the soft blue denim, warm skin tones, and the orange-gold of the evening street lights. The medium is a natural-light color photograph with a shallow depth of field, emphasizing the subject over the setting. No text, logos, or inscriptions are visible. The mood is intimate, casual, and contemplative, evoking a quiet evening moment at a city café.

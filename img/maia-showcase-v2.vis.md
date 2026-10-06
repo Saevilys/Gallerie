@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-05 19:38 UTC
+### Context
+A smaller copy of /images/maia-showcase-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical portrait photograph of a young woman, appearing to be in her early twenties, standing outdoors at a flower market. She has short black hair falling to the nape of her neck, styled loosely and slightly tousled. Her face is round with full cheeks, warm caramel-toned skin, dark brown eyes, and a bright open smile showing her teeth, directed at the camera. She wears a yellow sundress with thin spaghetti straps and a scoop neckline, the fabric gathered at the waist. Her arms are slim; she holds a small bouquet of several sunflowers with green stems against her torso, cradling them with both hands. Her posture is relaxed, angled slightly toward the camera with her body turned to three-quarter view.
+
+In the background, blurred by a shallow depth of field, are colorful flower stalls displaying pink, purple, yellow, and white blooms in containers. Red and blue tarp or canopy structures are visible overhead, suggesting market tents. A few indistinct figures of people stand in the far background, including a person in a reddish shirt on the right side. The ground appears to be gravel or packed dirt.
+
+Lighting is soft and warm, consistent with morning sunlight coming from the upper right, creating gentle highlights on her face and shoulders and a subtle glow through the foliage behind. The overall color palette is dominated by the yellow of her dress and the sunflower petals, contrasted with green stems and the mixed hues of the flower market backdrop. The image is clean and sharp on the subject with smooth skin tones and minimal grain, characteristic of AI-generated photography. There is no visible text, watermark, or overlay. The mood is cheerful, youthful, and natural.

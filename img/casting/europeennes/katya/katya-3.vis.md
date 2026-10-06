@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 12:08 UTC
+### Context
+A smaller copy of /images/katya-cast-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+The image is a waist-up portrait of a young woman photographed at night, presented in a grainy, smartphone-photo style with visible sensor noise and soft focus. The woman occupies the right and central portion of the frame, facing the camera with a faint, confident smile. She has long, loose hair ranging from honey-blonde at the front to darker brown at the back, fair skin with a warm undertone, green-grey eyes, and defined cheekbones. She wears an open charcoal-grey coat over a black lace bralette with a deep neckline that shows her décolletage, and a simple thin gold chain hangs around her neck. Her right arm is raised toward the camera in a selfie-like pose.
+
+The setting behind her is a narrow cobblestone street at night, lined with old stone buildings whose windows are dark. Warm yellow light from streetlamps glows on the left side of the frame, and a visible wisp of fog or breath drifts across the lower part of her chest, suggesting cold air. The cobblestones recede into the background on the left, creating depth. The overall color palette is dominated by warm amber light against the dark night and the muted grey and black of her clothing. There is no visible text, watermark, caption, or interface elements. The mood is intimate, candid, and atmospheric, evoking a cold, quiet European street at night.

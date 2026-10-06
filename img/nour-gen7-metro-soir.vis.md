@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-05 21:15 UTC
+### Context
+A smaller copy of /images/nour-gen7-metro-soir.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A waist-up selfie-style portrait of a young woman centered in the frame, shot as if from a front-facing camera, with no phone or hand visible. She has olive skin scattered with freckles across her cheeks, nose, and shoulders, and a small dark beauty mark on her left cheek (viewer's right). Her dark brown eyes are large and heavy-lidded, set beneath thick, dark, low and straight eyebrows, and she looks directly into the lens with a tired but alert expression, one brow slightly raised. She has high cheekbones, a square jawline, and full lips with a defined cupid's bow. Her dark brown, wavy hair falls to about shoulder length, framing her face. She wears an open black leather jacket over a plain white crew-neck t-shirt, and a thin gold chain with a small round pendant rests at her collarbone.
+
+The setting is an underground metro station at night. Behind her on the left is a wall of pale white subway tiles, and overhead cold fluorescent light panels cast a harsh, cool glow across her face. On the right side of the background, a train is captured as a soft blur, suggesting motion, with lit windows and metallic surfaces streaked horizontally. The composition is tight on the subject, her face occupying the upper two-thirds of the frame, shoulders and chest filling the lower portion.
+
+The image has a natural, unretouched skin texture with visible pores and a fine film grain, consistent with a 35mm film aesthetic. The overall palette is muted and cool, dominated by whites, greys, and blacks, with the warm tone of her skin providing the only warmth. The mood is candid, weary, and intimate, as of a spontaneous snapshot taken on a late-night commute. No text is visible in the image.
