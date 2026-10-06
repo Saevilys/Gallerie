@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 22:03 UTC
+### Context
+A smaller copy of /images/gabriela-cast-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented, photorealistic portrait of a young woman standing at the center of a cobblestone street, framed from the top of her head to mid-thigh. She faces the camera directly with a relaxed, closed-mouth smile. She has warm caramel-toned skin, a round face with high cheekbones, hazel eyes, and voluminous dark-brown curly hair falling past her shoulders. Her figure is curvy with a visible bust and slim waist. She wears a fitted yellow bikini top with a deep V-neck and matching yellow bikini bottoms, over which a sheer white, open-front cover-up shirt hangs loosely, its sleeves rolled to the elbow and fabric parted at the front so the bikini and midriff show.
+
+The setting is a narrow old-town street with multi-colored colonial houses rising on either side — pink, yellow, and teal facades with tile roofs and small windows — suggesting the Santa Teresa neighborhood of Rio de Janeiro. Potted tropical plants with pink and red flowers line both edges of the cobbled path behind her. The lighting is warm and low, consistent with golden-hour sun from the side, casting soft shadows and highlighting her skin and the building walls. The image has a natural, candid, smartphone-photo quality with fine detail and no visible text, watermarks, or UI elements. The overall mood is warm, relaxed, and inviting.

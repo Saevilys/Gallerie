@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 22:02 UTC
+### Context
+A smaller copy of /images/parvaneh-cast-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A single portrait of a young woman standing outdoors in a garden courtyard, framed from roughly the waist up and centered in the frame. She has long, straight black hair parted down the middle that falls over her shoulders, deep dark brown eyes, dark brows, a straight nose, full lips, and a calm, neutral expression as she looks directly at the camera. Her skin is warm olive with a smooth, slightly soft-focus texture. She wears a fitted deep burgundy/maroon long-sleeved top with a V-shaped keyhole neckline trimmed in gold embroidered floral scrollwork; a gold drop earring is visible on her left ear. Her figure is voluptuous with a wide bust.
+
+Behind her, the setting is a Persian-style courtyard: a rectangular tiled fountain or water basin runs horizontally across the middle background, flanked by neatly trimmed green hedges and low shrubs. To both sides of her head are pomegranate trees bearing several round reddish-orange fruits. Further back is a pale yellow/cream building wall with arched or windowed openings and a clear pale sky above. The lighting is warm, consistent with late afternoon, casting soft, even light on her face and the scene. The overall look mimics a candid smartphone snapshot with natural, slightly grainy quality and no visible text, captions, or watermarks. The mood is serene and composed.
