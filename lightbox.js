@@ -1,5 +1,5 @@
 var lb=document.getElementById('lightbox'),lbImg=document.getElementById('lb-img'),lbCap=document.getElementById('lb-cap');
-document.querySelectorAll('.card img, .avatar-card img').forEach(function(img){
+document.querySelectorAll('.card img').forEach(function(img){
   img.addEventListener('click',function(){
     lbImg.src=this.src;
     lbCap.textContent=this.getAttribute('data-cap')||'';
