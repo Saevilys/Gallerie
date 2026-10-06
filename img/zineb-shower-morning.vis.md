@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-02 06:22 UTC
+### Context
+A smaller copy of /images/zineb-shower-morning.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented photorealistic selfie photograph taken in a bathroom mirror. The subject is a woman in her mid-20s with light-to-medium skin, a defined jawline and narrow chin, dark defined eyebrows, dark brown eyes, and damp, wavy dark brown-to-black hair that is parted in the middle, with wet strands clinging to her forehead and face. She wears a white towel wrapped around her chest, knotted at the front, leaving her shoulders and collarbone bare; her skin shows realistic texture with visible pores and fine facial hair on her chest. Her right hand is raised to push hair back behind her ear, while her left hand holds a black smartphone up to the mirror, capturing her reflection. The phone's screen reflects her own face in mirror-image, with a small rectangular camera-viewfinder box visible in the upper-right corner of the screen and faint interface elements.
+
+The setting is a steamy bathroom. Condensation droplets cover the mirror surface, and wisps of steam rise behind her head and along the right edge. The lighting is warm and dim, suggesting early morning, with soft light on her face and overexposed bright patches in places. The image has the grainy, slightly soft-focus quality of a phone camera shot at high ISO, with uneven sharpness and natural skin detail rather than airbrushed smoothness.
+
+Composition places her head and upper body centrally, framed by the towel at the bottom and steam behind. There is no readable text other than the small phone-camera interface markings. The overall mood is calm, intimate, and candid, with a neutral, faintly closed-mouth expression on the woman's face. The style is documentary-style smartphone photography with no painterly or artistic treatment.

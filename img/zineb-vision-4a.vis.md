@@ -1,0 +1,9 @@
+## Image (generated) by Layla - 2026-10-01 17:53 UTC
+### Context
+Made with image_generate from the prompt: "Same woman, same position, same window with rain. But now her hair is pulled back into a tight low ponytail, showing her jawline. The oversized coat is replaced by a thin charcoal turtleneck sweater. She looks directly at the camera this time. Same grey daylight, same rain, same grain. Fully photorealistic smartphone photo."
+### Vision
+A vertical, medium-close-up portrait of a young woman standing at a window. Her dark brown hair is pulled back tightly into a low ponytail, leaving her forehead and jawline fully exposed. She faces the camera directly, with a neutral, calm expression, blue-grey eyes, and natural makeup. She wears a thin, fitted charcoal-grey turtleneck sweater that covers her neck and shoulders.
+
+She occupies the left and central portion of the frame, her body angled slightly while her head turns toward the viewer. The right half of the image is filled by a window pane covered with rain: numerous water droplets streak down the glass in thin vertical lines, blurring the view outside. Beyond the wet window is a soft, out-of-focus outdoor scene rendered in pale grey tones, suggesting an overcast cityscape or street with indistinct shapes. A pale vertical curtain or wall edge appears at the far left.
+
+The lighting is diffuse and even, characteristic of grey daylight through a rainy window, producing soft shadows on her face and no harsh highlights. The overall palette is muted and desaturated—dominated by charcoal, slate grey, and cool whites. The image has a fine photographic grain and realistic texture, consistent with a smartphone portrait shot. There is no visible text, logo, watermark, caption, or interface element. The mood is quiet, introspective, and melancholic.

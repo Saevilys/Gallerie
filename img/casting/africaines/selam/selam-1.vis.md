@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-06 19:30 UTC
+### Context
+A smaller copy of /images/selam-cast-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, photorealistic portrait of a single young woman with deep, dark brown skin, photographed from roughly the waist up and centered in the frame. She faces the camera directly with a calm, neutral, poised expression. Her features include high cheekbones, dark almond-shaped eyes, defined brows, full lips, and a slender neck. Long, dark, wavy-to-curly hair is parted down the middle and falls past her shoulders, with some lighter brown highlights catching the light. She wears a white, off-the-shoulder blouse or dress with a gathered, smocked neckline across the chest, long loose sleeves, and a cinched waist; the fabric is slightly textured cotton. Her slim figure shows a fuller bust and the upper line of the hips at the lower edge of the frame.
+
+The setting appears to be a rooftop in soft afternoon light. The background is heavily blurred (shallow depth of field): a pale, washed-out sky occupies the upper portion, with indistinct green treetops and faint building shapes in the distance, and a white parapet or low wall edge runs along the lower left. The light is soft and even, with a gentle rim light tracing the contours of her hair and shoulders; the overall tone is clean and low-contrast with no visible grain. The mood is serene, natural, and composed. No text is present in the image.
