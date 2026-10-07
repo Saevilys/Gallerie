@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 19:15 UTC
+### Context
+A smaller copy of /images/group-family-living-room.png (1200×1024 → 1024×874, jpg) — the same picture; the original is untouched.
+### Vision
+A warm, candid interior photograph of five young women gathered in a cozy living room, rendered in a photorealistic style with a soft, slightly grainy smartphone-photo quality. The scene is lit by a cream-shaded table lamp behind the couch, casting an amber glow across the room, with warm earthy tones dominating the palette of browns, creams, and muted pastels.
+
+Seated from left to right: first, a woman with dark brown wavy shoulder-length hair and gold-rimmed glasses, wearing a black turtleneck and jeans, laughing openly while holding a ceramic mug in both hands. Second, a woman with olive skin and dark hair pulled into a loose bun, wearing a cream knit sweater, seated on the couch with her legs tucked up. Third, in the center foreground, a woman with long straight black hair and red lipstick, wearing a loose white blouse and jeans, sitting cross-legged on the floor and leaning back. Fourth, a young woman with a round face in an oversized pink hoodie, hands clasped in her lap, seated on the couch. Fifth, on the far right, a woman with dark curly hair in a denim jacket, seated on the floor against the armchair, smiling while holding a smartphone.
+
+The setting includes a beige fabric couch, a wooden coffee table in the foreground holding two tea cups on saucers, a tall bookshelf packed with books behind the seating, and a window on the right with a small potted plant on the sill. The composition is a casual, wide group shot framed at eye level. The overall mood is intimate, relaxed, and warm, evoking a comfortable gathering among friends at home. No readable text is visible in the image.

@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 19:17 UTC
+### Context
+A smaller copy of /images/group-family-kitchen-cooking.png (1200×1024 → 1024×874, jpg) — the same picture; the original is untouched.
+### Vision
+A horizontally framed, photorealistic candid photograph of five young women gathered around a stovetop and counter in a warm, cluttered home kitchen. The scene is lit by soft, warm interior light with gentle highlights on the metal pots and the women's faces; steam rises faintly from a pot, and the overall quality mimics a raw smartphone photo with fine grain and natural skin texture.
+
+From left to right: a woman with dark brown wavy shoulder-length hair, gold-rimmed glasses, freckles and olive skin, wearing a black turtleneck, smiles as she chops onions on a wooden cutting board with a knife; a second woman with dark hair in a loose bun and olive skin, in a cream knit sweater, leans over the stove stirring a stainless-steel pot with a wooden spoon; a third, East Asian woman with long straight black hair and red lipstick in a white blouse, holds a wooden spoon lifted to her mouth while tasting from a small metal bowl, her expression focused; a fourth, a young Chinese woman with a round face and an oversized pink hoodie, leans on the counter laughing; and on the far right a younger woman with dark curly hair in a denim jacket holds a phone up, capturing a photo of the group.
+
+The stove holds two metal pots and a gas flame glows blue beneath one; the counter is crowded with a cutting board of chopped onions, fresh green herbs in a bowl, a bottle of oil, a tomato, eggs and other cooking ingredients, conveying cozy domestic clutter. A range hood sits above and framed pictures hang on the pale wall behind. The composition is tight and eye-level, capturing the women mid-interaction. The mood is warm, joyful and intimate. No visible text appears in the image.
