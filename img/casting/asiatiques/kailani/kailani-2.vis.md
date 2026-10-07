@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 09:35 UTC
+### Context
+A smaller copy of /images/kailani-cast-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented photorealistic portrait of a young woman standing waist-deep in shallow turquoise ocean water. She has warm golden-brown skin, long dark brown hair with lighter sun-bleached strands pushed back behind her ears, soft brown eyes, and full lips parted in a wide open-mouthed laugh showing her teeth. Her face shows natural skin texture with visible pores and water droplets on her shoulders and torso. She wears a two-piece floral bikini in pink hibiscus flowers, yellow accents, and green leaves on a white background; the top is a halter style and the bottom is a low-rise brief. Her posture is upright and relaxed, slightly angled toward the camera, with arms at her sides, conveying a carefree mid-motion feel.
+
+Behind her, the water is clear and turquoise, fading lighter near the edges. In the blurred background to the left is a brown mountain ridge resembling Diamond Head, and to the right are indistinct pale buildings along a shoreline under a bright blue sky with light haze. The framing is a medium shot from the waist up, centered on the subject. Lighting is bright natural daylight with a sunlit glow on her skin and hair. The overall style mimics a raw smartphone photo with natural detail and no painterly smoothing. The mood is joyful, sunny, and relaxed. No visible text or on-screen elements appear in the image.

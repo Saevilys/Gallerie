@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 09:36 UTC
+### Context
+A smaller copy of /images/kailani-cast-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, medium-shot portrait of a young woman seated on the hood and front fender of a weathered, vintage pickup truck parked at the coast. The truck is faded teal-green with extensive rust and peeling paint across the hood and fenders; a small chrome emblem badge is visible on the front fender, though its lettering is not clearly legible. The woman has warm brown skin, long wavy dark brown hair falling past her shoulders, brown eyes, full lips, and pronounced cheekbones. She wears a white, off-the-shoulder gathered top and matching white shorts, with a green leaf lei (maile) draped around her neck and a single white flower tucked behind her left ear. Her posture is relaxed, knees bent, hands resting on her lap, and she gazes calmly slightly off-camera to her left with a soft, content expression.
+
+Behind her to the right stands a tall, cream-colored surfboard, angled upward against the truck. The background reveals the ocean with gentle surf and a warm sunset sky in shades of gold, peach, and pale pink near the horizon. Lighting is golden-hour, casting a warm glow on her face, hair, and the rusted metal. The overall style is a photorealistic, natural-light portrait, with soft skin texture and a candid, unposed mood. No readable text appears anywhere in the frame.
