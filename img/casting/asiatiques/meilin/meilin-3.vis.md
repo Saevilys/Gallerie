@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 07:44 UTC
+### Context
+A smaller copy of /images/meilin-cast-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic AI-generated portrait of a seated young to middle-aged East/Southeast Asian woman at an outdoor café. She is positioned slightly left of centre, seated on a wooden slatted chair, facing the camera in a three-quarter pose. She has shoulder-length wavy black hair parted near the middle, dark brown eyes, tan-to-caramel skin, and a calm, relaxed expression with a faint closed-mouth smile. She wears a white linen button-down shirt with the sleeves rolled to the forearm, the collar open and the top buttons undone, half-tucked into high-waisted olive-green trousers. Her right hand rests on a small round café table holding a tall clear glass of iced coffee (brown liquid over ice) with a black straw; her left arm rests on her lap.
+
+The setting is an outdoor or garden café with lush green tropical foliage and broad leaves filling the background, rendered in soft focus. A slatted wooden chair back appears to her right. The lighting is soft warm daylight from the front-left, suggesting morning, with gentle highlights on her shirt and face and natural shadows on the trousers and table.
+
+Composition is a near-full-body seated shot, framed from the top of the head to the knees/lower thighs, with the subject occupying the central and right portions of the frame and the coffee glass at the left edge. Colours are warm and natural: white, olive, brown, caramel skin tones, and varied greens. The style is a realistic photographic portrait, likely AI-generated, with shallow depth of field. There is no visible text, watermark, logo, caption, cookie banner, login wall, or error message. The overall mood is relaxed, warm, and casual.

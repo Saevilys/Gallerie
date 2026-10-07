@@ -1,9 +1,11 @@
-## Image (resized) by Layla - 2026-10-06 20:01 UTC
+## Image (resized) by Layla - 2026-10-07 07:44 UTC
 ### Context
-A smaller copy of /images/chiara-cast-v4.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/chiara-cast-v1-new.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
-A photorealistic portrait photograph, medium close-up, of a young woman seated at an outdoor café terrace. She is positioned slightly off-center, facing the camera with a relaxed, faintly smiling expression. Her long chestnut-brown hair falls loosely past her shoulders, parted near the center. She has fair skin, blue-grey eyes, and delicate, natural facial features with minimal makeup. She wears a cream or off-white silk blouse with a soft, open collar and long sleeves; the fabric shows gentle folds and a slight sheen. Her arms rest forward, partially out of frame at the bottom edge.
+A medium close-up portrait of a woman seated at what appears to be an outdoor café or restaurant. She has long, wavy, chestnut-brown hair parted slightly off-center, framing her face and falling over her shoulders. Her complexion is fair, with defined facial features, dark eyebrows, light-colored eyes, and a subtle closed-mouth smile. She is looking directly toward the camera.
 
-The composition uses a shallow depth of field: the woman is sharply in focus while the background dissolves into soft bokeh. Behind her, the blurred setting includes café furniture—woven wicker chairs and a table with what appear to be cups or glasses on the left—and indistinct figures of other patrons, one in dark clothing on the left and others on the right. Bright, out-of-focus daylight and a few circular lens-flare-like highlights fill the background, suggesting a sunlit European street or piazza.
+She wears a cream or ivory silk blouse with a soft sheen, a deep V-neckline, and long sleeves; the fabric gathers slightly at the chest. The blouse is the only garment visible. She is seated in a chair whose back shows a woven cane or rattan pattern and a wooden frame.
 
-Lighting is soft and warm, consistent with gentle morning or late-afternoon light, falling across the subject's face and blouse without harsh shadows. The overall color palette is warm and muted, dominated by creams, browns, and soft skin tones. The style is realistic portrait photography, likely AI-generated. There is no visible text, watermark, or graphic overlay. The mood is calm, natural, and approachable.
+The background is heavily blurred (shallow depth of field), showing a bright daytime setting with hints of other patrons, tables, glassware, and warm bokeh highlights suggesting sunlight filtering through awnings or foliage. A glass or cup sits on a table edge in the lower-left foreground.
+
+Compositionally, the woman occupies the central-right portion of the frame, angled slightly toward the viewer, with the left side left open to the blurred background. Lighting is soft and natural, bright on the face and blouse, with gentle shadows on the right side of the figure. The overall style is a photographic portrait with a warm, intimate, candid mood. There is no visible text, watermark, or overlay.
