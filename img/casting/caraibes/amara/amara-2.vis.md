@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 11:08 UTC
+### Context
+A smaller copy of /images/amara-2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A digital photograph-style portrait of a young woman dancing at night on a street. The central subject is a woman with warm brown skin, long dark curly hair cascading past her shoulders, deep brown eyes, full lips, and a wide open-mouthed smile showing her teeth. She wears a fitted sleeveless yellow sundress with a low scoop neckline that hugs her bust and waist and follows her hips; the fabric reads as a soft jersey. Her arms are bent at the elbows with both hands raised into loose fists at chest level, a posture suggesting mid-dance movement. She is framed from roughly the knees up (full bust through hips), centered in the frame and facing the camera.
+
+Behind her, the background is softly out of focus. On the left, a man in a white button shirt and dark jeans holds an acoustic guitar, smiling. On the right, another man in a white shirt and dark pants appears to play a wind instrument (possibly a clarinet or similar), also smiling. Additional indistinct figures populate the mid-ground. The setting is a street at night, with cobblestone-like paving visible at the bottom of the frame. Strings of multicolored round lights (red, blue, yellow, white) are draped across the upper portion of the scene, rendered as soft bokeh circles.
+
+Lighting is warm and festive, dominated by amber and yellow tones from the string lights and ambient street illumination, casting a golden glow on the woman's skin and dress. The image has a candid, unedited documentary look with visible skin texture and slight grain. The overall style is photorealistic, resembling a candid street photograph. The mood is joyful, energetic, and celebratory. There is no visible text, watermark, or interface element in the image.

@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 11:10 UTC
+### Context
+A smaller copy of /images/imani-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic outdoor portrait of a young Black woman with dark brown skin, seated on a weathered bench painted in bold stripes of red, blue, yellow and green. She has long black box braids falling past her shoulders, bold dark brown eyes, high cheekbones and full lips, with a subtle, relaxed smile. She wears a fitted black sleeveless tank top and a black skirt, sitting with her legs apart and her hands resting on her thighs and the bench edge in a confident, at-ease pose. Her curvy hips and thighs are visible in the lower half of the frame.
+
+Behind her, a narrow alley is lined with vibrant street-art murals: large portrait murals of Bob Marley with dreadlocks appear on walls to both the left and right of the subject, alongside abstract colorful patterns and additional face imagery. The ground to the left is paved with uneven stone or cobblestones. The scene is bathed in warm late-afternoon light that highlights her skin and the saturated mural colors, with visible skin texture and a slight photographic grain throughout. The framing is a full-bust to upper-thigh shot, with the woman centered and the colorful murals framing her on both sides. The overall mood is relaxed, warm and confident. No readable text is present in the image.

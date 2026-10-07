@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 11:08 UTC
+### Context
+A smaller copy of /images/imani-2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic portrait photograph of a young Black woman with dark brown skin, seated and facing the camera with a confident, playful half-smile. She has long box braids gathered and pulled half-up at the crown of her head, the remaining braids hanging loose past her shoulders down her chest. Her facial features include bold dark brown eyes, high cheekbones, and full lips. She wears a fitted emerald green short-sleeve crop top that exposes her midriff and lower torso, with her arms crossed or resting across her lap. The framing is a full bust to waist shot, capturing her curvy hips.
+
+Behind her on the left is a black grill or barbecue with visible smoke rising into the air. On the wall to her right are several colorful posters or flyers; one near the top clearly displays the word "KINSEE" in bold lettering, and a lower one shows the partial text "NICE FIRE" alongside an image of a person in a red shirt. A wooden bar or counter surface is visible at the right edge, with a green-painted panel below it. Warm afternoon light enters from a window at the upper left, casting soft illumination on her face and shoulder, with visible skin texture and a subtle film grain throughout. The overall mood is candid, warm, and relaxed, evoking a roadside food stand or grill setting.
