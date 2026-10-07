@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 17:49 UTC
+### Context
+A smaller copy of /images/yara-military-v5.png (1024×1216 → 1011×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical portrait photograph showing a young woman in her twenties seated at a desk, viewed from a slightly elevated angle looking down at her. She has olive-toned skin, long straight black hair parted down the middle, dark thick eyebrows, brown eyes, full lips, and a composed, focused expression as she looks down at a sheet of paper she holds in her left hand. A silver hoop earring is visible on her left ear, and a ring on her left ring finger. She wears a fitted charcoal-black double-breasted military-style coat with multiple rows of silver buttons, over a black turtleneck, with black trousers. Her right hand holds a pen poised above the document.
+
+The setting is a dimly lit office. A desk lamp on the left side of the frame casts warm light across the left side of her face and across the papers. Behind her are dark wood bookshelves and cabinets filled with books, binders, and folders. The lighting is low-key, with the lamp as the primary light source, leaving much of the background in shadow. The image has a raw, photographic quality with visible skin texture and slight grain, no painterly effects. No legible text is visible on the document or elsewhere. The overall mood is serious, studious, and contemplative.
