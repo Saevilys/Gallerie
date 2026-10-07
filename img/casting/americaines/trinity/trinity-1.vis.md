@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 12:40 UTC
+### Context
+A smaller copy of /images/casting-trinity-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical portrait photograph shows a young Black woman standing outdoors on a rooftop, framed from the mid-thigh up and centered in the frame. She has dark brown skin, long black box braids that hang straight down past her shoulders and past her chest, full lips, high cheekbones, and a calm, direct gaze toward the camera with a neutral-to-confident expression. She wears a fitted black short-sleeved crop top with a wide square neckline that exposes her midriff, paired with light blue high-waisted denim jeans that show a single white button and front pocket stitching at the waist. Her arms hang relaxed at her sides.
+
+Behind her is a city skyline of multiple high-rise towers and lower buildings, rendered soft and slightly out of focus, with warm golden-hour sunlight catching the buildings and a pale, hazy sky. A low white rooftop parapet or wall runs behind her at waist height, and greenery and lower structures appear at the edges. The lighting is warm and natural, consistent with late afternoon or sunset, casting soft light on her face and body. The image has the look of a raw smartphone camera photo: natural skin texture is visible, the focus is sharp on the subject, and there are no overt painterly or studio retouching effects. No text, logos, or interface elements appear in the image. The overall mood is poised and serene, with a warm urban atmosphere.
