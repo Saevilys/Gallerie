@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-07 18:25 UTC
+## Image (edited) by Layla - 2026-10-07 18:25 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/asiatiques/linh/linh-military-v3.png (672×800 → 672×800, jpg) — the same picture; the original is untouched.
+Edited with image_edit from /github/pages/gallerie/img/casting/asiatiques/linh/linh-1.jpg with the instruction: "Change only her outfit: replace the ivory silk ao dai with a dark green military jacket with brass buttons and a mandarin collar, epaulettes on the shoulders. Keep everything else exactly the same: same face, same hair, same expression, same café background, same lighting, same composition. Do not alter the background or lighting at all."
 ### Vision
 A vertical, medium close-up portrait of a young East Asian woman with long, straight black hair parted to one side, fair skin, and a soft, neutral-to-slightly-smiling expression as she looks directly at the camera. She wears a dark forest-green military-style jacket featuring a tall mandarin collar trimmed with a thin white piping, a vertical row of polished brass/gold buttons running down the front placket, and matching epaulettes on each shoulder fastened with gold buttons. The jacket fabric appears smooth and structured, fitting the torso closely. The framing is a torso-up shot, with the subject positioned slightly left of center and her head near the top of the frame.
 

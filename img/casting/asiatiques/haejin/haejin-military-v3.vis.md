@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-07 18:25 UTC
+## Image (edited) by Layla - 2026-10-07 18:25 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/asiatiques/haejin/haejin-military-v3.png (672×800 → 672×800, jpg) — the same picture; the original is untouched.
+Edited with image_edit from /github/pages/gallerie/img/casting/asiatiques/haejin/haejin-1.jpg with the instruction: "Change only her outfit: replace the charcoal blazer with a dark navy military jacket with silver buttons and epaulettes, high collar. Keep everything else exactly the same: same face, same hair, same expression, same background, same lighting, same composition. Do not alter the background or lighting at all."
 ### Vision
 A vertical portrait of a young East Asian woman shown from the chest up, centered and facing the camera directly. She has shoulder-length, wavy dark brown hair parted to one side, dark eyes, and a calm, neutral expression with a faint closed-mouth smile. Her skin tone is light and evenly lit.
 

@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-07 18:25 UTC
+## Image (edited) by Layla - 2026-10-07 18:25 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/asiatiques/yuna/yuna-military-v3.png (864×1024 → 864×1024, jpg) — the same picture; the original is untouched.
+Edited with image_edit from /github/pages/gallerie/img/casting/asiatiques/yuna/yuna-1.jpg with the instruction: "Change only her outfit: replace the navy ribbed top with a charcoal-black military double-breasted coat with silver buttons, open collar. Keep everything else exactly the same: same face, same hair, same expression, same beach background, same lighting, same composition. Do not alter the background or lighting at all."
 ### Vision
 A selfie-style photograph of a woman with long, dark black hair, fair skin, and a faint closed-mouth smile, taken on a sunny beach. The frame is a close-up portrait, roughly square, with her face occupying the upper portion and her torso and shoulder in the foreground; her left arm extends out of frame toward the lower left, consistent with a handheld self-portrait.
 
