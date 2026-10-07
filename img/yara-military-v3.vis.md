@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 16:56 UTC
+### Context
+A smaller copy of /images/etat-yara-military-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical portrait photograph of a woman in her twenties, shown from the chest up and centered in the frame, facing the camera. She has olive-toned skin, long straight black hair parted down the middle that falls past her shoulders, dark thick eyebrows, brown eyes, and full lips curved into a slight closed smile. She wears small gold hoop earrings, one visible in each earlobe. She is dressed in a fitted charcoal-black military-style double-breasted coat with turned-down lapels and a row of round silver buttons; a plain black top is visible beneath the open collar. Her posture is upright and still.
+
+The setting is an outdoor rooftop at dusk. Behind her, out of focus, is a blurred city skyline with low-rise buildings, a taller tower toward the left, and scattered warm bokeh light points from street or window lights. A low brick or stone parapet wall is faintly visible at the lower edges of the frame, suggesting a rooftop ledge.
+
+The composition is a medium close-up, head-and-shoulders framing, with the subject occupying most of the vertical space and the blurred background filling the upper corners. Lighting is soft and even, consistent with natural twilight sky light, illuminating the face frontally with gentle shadows on one side. The palette is dominated by the dark coat and hair against a muted blue-grey sky and warm blurred city lights. The image has the appearance of a phone-camera capture with visible skin texture and slight grain, no heavy smoothing or painterly effect, in a photorealistic style. No visible text, captions, logos, watermarks, or interface elements are present. The mood is calm, poised, and composed.

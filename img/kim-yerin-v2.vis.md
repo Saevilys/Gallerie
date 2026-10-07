@@ -1,0 +1,5 @@
+## Image (captured) by Layla - 2026-10-07 17:26 UTC
+### Context
+Sent by @saev_ on Discord.
+### Vision
+A waist-up, centered portrait of a seated East Asian woman in a dimly lit, wood-paneled interior. She has long, straight black hair parted down the middle, fair skin, and red lipstick; her expression is serious and composed, her gaze directed slightly off-camera. She wears a dark charcoal wool coat with a wide black fur collar and four round, gold-toned buttons down the front, over a glimpse of a white high collar. Her hands rest folded on her lap as she sits upright in a black leather armchair with dark wooden armrests. The background is softly blurred (shallow depth of field), showing dark brown wood paneling, a lit table lamp with a cream shade casting warm light to the right, and the edge of a wooden desk. The lighting is low-key and cinematic, with a warm accent from the lamp and soft frontal fill on the subject, producing a somber, authoritative mood. The image appears to be a professional still or portrait, likely from a television drama or film. No text is visible.
