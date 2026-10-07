@@ -1,9 +1,0 @@
-## Image (resized) by Layla - 2026-10-07 18:25 UTC
-### Context
-A smaller copy of /github/pages/gallerie/img/casting/asiatiques/linh/linh-military-v3.png (672×800 → 672×800, jpg) — the same picture; the original is untouched.
-### Vision
-A vertical, medium close-up portrait of a young East Asian woman with long, straight black hair parted to one side, fair skin, and a soft, neutral-to-slightly-smiling expression as she looks directly at the camera. She wears a dark forest-green military-style jacket featuring a tall mandarin collar trimmed with a thin white piping, a vertical row of polished brass/gold buttons running down the front placket, and matching epaulettes on each shoulder fastened with gold buttons. The jacket fabric appears smooth and structured, fitting the torso closely. The framing is a torso-up shot, with the subject positioned slightly left of center and her head near the top of the frame.
-
-The background is an indoor setting resembling a café or modern interior: a plain beige or cream wall fills the center and right, with a white-framed window on the right edge showing vertical mullions or blinds, and a softly blurred window area on the left. A pale counter or ledge appears in the lower-right corner. Lighting is soft and natural, entering from the right and gently illuminating her face and the jacket, with mild shadows on the left side of her face and body, consistent with the window light source.
-
-The color palette is dominated by deep green, gold, black, and neutral beige tones. The image is photorealistic in style, consistent with an AI-edited portrait in which only the outfit was changed while the face, hair, expression, background, and lighting were preserved. No text, logos, or interface elements are visible. The overall mood is calm, poised, and composed.

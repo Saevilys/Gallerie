@@ -1,9 +1,0 @@
-## Image (resized) by Layla - 2026-10-07 18:25 UTC
-### Context
-A smaller copy of /github/pages/gallerie/img/casting/asiatiques/yuna/yuna-military-v3.png (864×1024 → 864×1024, jpg) — the same picture; the original is untouched.
-### Vision
-A selfie-style photograph of a woman with long, dark black hair, fair skin, and a faint closed-mouth smile, taken on a sunny beach. The frame is a close-up portrait, roughly square, with her face occupying the upper portion and her torso and shoulder in the foreground; her left arm extends out of frame toward the lower left, consistent with a handheld self-portrait.
-
-Her outfit has been edited to a charcoal-black military-style double-breasted coat: it features structured lapels, an open collar forming a V at the neckline, shoulder epaulettes with silver buttons, and two columns of large round silver-toned buttons down the front. The coat is solid matte black with no visible pattern or texture beyond the fabric fold lines. The face, hair, expression, pose, beach background, lighting, and composition are unchanged from the original, per the edit instruction.
-
-The background shows a bright blue sky over a turquoise sea with gentle surf near a sandy shoreline. Colorful beach umbrellas (blue, yellow, red, white) are scattered across the sand, with a few distant seated figures and lounge chairs. The light is bright natural daylight, casting soft shadows on her face and highlighting the silver buttons. The medium is a digital photograph, likely an AI-edited composite preserving the original background and lighting. There is no visible text. The overall mood is relaxed, sunny, and casual.
