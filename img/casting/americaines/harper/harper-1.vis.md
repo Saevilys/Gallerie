@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 12:55 UTC
+### Context
+A smaller copy of /images/casting-harper-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, waist-up portrait of a young adult woman with long honey-blonde wavy hair, fair skin with light freckling, and blue eyes, photographed outdoors at golden hour. She has a curvaceous, full-figured body with a large bust and wide hips. She wears a white ribbed tank top stretched tightly across her chest (with faint nipple outlines visible through the thin fabric) and frayed, distressed denim cutoff shorts with rips at the thigh. Her pose is relaxed: she leans her back and one elbow against a weathered wooden fence rail that runs diagonally across the lower middle of the frame, with one arm resting on the rail and the other hanging at her side; she looks directly toward the camera with a neutral expression.
+
+Behind her is a field of wildflowers — yellow blooms and clusters of pink-purple flowers — with rolling green hills and a band of trees on the horizon under a warm, pale sunset sky. The lighting is soft and golden, catching the right side of her hair and body. The image reads as a realistic smartphone photograph: visible skin texture and natural detail, no painterly or stylized effects. There is no visible text, watermark, or overlay. The overall mood is warm, casual, and natural.
