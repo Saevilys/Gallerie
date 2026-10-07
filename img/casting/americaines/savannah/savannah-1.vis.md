@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 13:04 UTC
+### Context
+A smaller copy of /images/casting-savannah-1-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, full-body portrait of a young Black woman standing outdoors on a rooftop garden, photographed from the front at roughly the waist and above, with her head near the top of the frame and her hips cut off at the bottom edge. She has dark brown skin, long dark natural curly hair falling past her shoulders, brown eyes, and full lips, and she looks directly at the camera with a neutral, calm expression. Her figure is curvaceous, with a prominent bust stretched across a fitted, ribbed olive-green long-sleeve sweater and wide hips set in high-waisted dark (black or dark grey) jeans, the button and fly of which are visible. Her arms hang loosely at her sides.
+
+The background shows a city skyline of tall skyscrapers in soft focus behind a metal rooftop railing, with clusters of ornamental grasses and low shrubs in warm bronze and rust tones on either side of her, suggesting an autumn planting on a planted roof terrace. The lighting is warm, low-angle golden-hour sunlight coming from the left, casting soft highlights on her face, hair, and the left side of her sweater while leaving the right side in gentle shadow. The overall palette is dominated by warm golds, browns, the muted olive green of the sweater, and the cool grey-blue of the distant buildings.
+
+The image is presented in a photorealistic, casual smartphone-camera style, with visible skin texture and a slightly grainy, natural look rather than polished studio retouching. No text, logos, captions, watermarks, login prompts, or interface elements appear anywhere in the image. The mood is warm, candid, and relaxed, evoking a personal outdoor portrait taken at sunset against an urban skyline.
