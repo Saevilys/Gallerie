@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 10:59 UTC
+### Context
+A smaller copy of /images/imani-1.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic portrait of a young Black woman standing on a sandy beach. She is positioned slightly left of center, facing the camera with a broad smile showing her teeth. Her hair is styled in long black box braids that fall past her shoulders, draping over her right shoulder and chest. She has dark brown skin, brown eyes, and a confident, radiant expression. She wears a bright yellow sleeveless sundress with a scoop neckline that fits her body; the dress shows natural creasing and fabric texture. Her arms hang at her sides, with her left hand partially visible at the bottom edge.
+
+Behind her, the background is a tropical beach scene: turquoise sea water with small white waves breaking along the shore on the right, a stretch of pale sand beach, and green palm trees lining the coast in the distance under a pale blue sky. The lighting is warm golden-hour sunlight coming from the right, casting soft shadows on her left side and illuminating her face. The image has a slight grain and visible skin texture consistent with a raw photograph. The composition is a medium shot framing her from roughly the hips up to the top of her head. There is no visible text in the image. The overall mood is bright, warm, and cheerful.
