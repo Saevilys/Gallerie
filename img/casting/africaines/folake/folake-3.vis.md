@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 12:29 UTC
+### Context
+A smaller copy of /images/casting-test-bust-3-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented, photorealistic portrait of a young Black woman with dark brown skin, seated at what appears to be an outdoor bar counter. She has a full head of natural, tightly coiled curly hair in dark brown tones, high cheekbones, full lips, and a calm, direct gaze aimed toward the camera. Her bust is notably large and a deep V-plunging neckline is stretched across her chest, emphasizing a very curvaceous figure. She wears a fitted Ankara-patterned top featuring a colorful block-print design of maroon, green, yellow, blue, and white geometric squares and floral motifs.
+
+She sits at a curved, dark countertop that curves away to the right; a wooden chair back is partially visible behind her left shoulder. The background shows a body of water with a railing along the edge, and beyond it a hazy, low urban skyline under a sunset sky. The sun hangs low on the horizon, casting warm orange and pink tones across the water and sky, with bright reflections shimmering on the surface. A few indistinct silhouetted figures sit at the far end of the bar.
+
+The framing is a medium shot capturing the woman from roughly the waist up, positioned slightly left of center, with the sunset lagoon filling the upper background. The lighting is soft, natural sunset light with warm highlights on her skin and the counter edge. The image is rendered in a raw, unedited smartphone-camera aesthetic: visible skin texture, natural tonal variation, and no painterly or smoothed digital effects, consistent with a casual phone photograph rather than fine-art rendering. No visible text, logos, watermark, or interface elements appear in the frame. The overall mood is warm, relaxed, and intimate, evoking an evening waterfront setting.
