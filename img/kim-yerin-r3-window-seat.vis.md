@@ -1,0 +1,11 @@
+## Image (edited) by Layla - 2026-10-07 19:12 UTC
+### Context
+Edited with image_edit from /github/pages/gallerie/img/kim-yerin-v1.jpg with the instruction: "Change her outfit to a white knit sweater, casual. Change pose: sitting on a wide windowsill with knees drawn up, chin resting on one knee, looking out the window with a soft calm expression. Soft daylight, sheer curtains gently moving. Quiet, intimate, at peace. Keep her face, hair, red lipstick exactly the same. Do not alter her face or age her."
+### Vision
+A vertical-format photograph of a young East Asian woman seated indoors beside a large window. She has long, straight black hair falling past her shoulders and red lipstick, both consistent with the unchanged facial features. She is positioned on a wide, pale windowsill, knees drawn up toward her chest, her right hand resting on her shin and her chin propped against one knee. Her gaze is directed out the window to the left with a calm, quiet expression.
+
+She wears a plain white ribbed knit crewneck sweater, casual in style, paired with black leggings or slim black trousers and short black boots. The sweater fits loosely at the hem.
+
+The setting is a bright interior room. A tall window with a bright, softly blurred outdoor view fills the left portion of the frame; the daylight is soft and diffused. Sheer white curtains hang on either side of the window, the left curtain partly framing the foreground and the right curtain falling straight down the right edge, suggesting gentle movement. The wall to the right of the window is a plain warm off-white or beige.
+
+Composition places the woman center-right of the frame, seated in profile/three-quarter view facing left, with the bright window and sheer curtain occupying the left third and serving as the light source. The palette is muted and warm: whites and creams of the sweater, curtains, and sill contrasted with the deep black of her hair, pants, and boots, and the small accent of red on her lips. Lighting is soft natural daylight from the window, producing gentle shadows and a peaceful, intimate mood. No text, watermarks, or interface elements are visible. The image reads as a photographic-style portrait, consistent with an edited result following the given outfit, pose, and lighting instructions while preserving the subject's face, hair, and red lipstick.
