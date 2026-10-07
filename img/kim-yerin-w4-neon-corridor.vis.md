@@ -1,0 +1,11 @@
+## Image (edited) by Layla - 2026-10-07 19:02 UTC
+### Context
+Edited with image_edit from /github/pages/gallerie/img/kim-yerin-v1.jpg with the instruction: "Replace her outfit with a long white military coat belted at the waist, falling to the knees, collar pulled up, silver epaulettes. Change the background to a dimly lit narrow concrete corridor with cold blue fluorescent light strips on the ceiling. Cinematic, dystopian, 1984 atmosphere. Keep her face, hair, expression, red lipstick exactly the same. Do not alter her face or age her."
+### Vision
+A full-body photograph of a woman standing in the center of a narrow, dimly lit concrete corridor. She faces the camera directly with a neutral expression, dark hair pulled back from her face, and bold red lipstick. She wears a long white military-style coat that is belted at the waist and falls to her knees, with its collar pulled up around her neck; the coat is double-breasted with rows of light-coloured buttons down the front, and it has silver epaulettes on each shoulder. Below the coat she wears dark black boots. Her hands are not clearly visible, appearing tucked behind her back or at her sides.
+
+The setting is a straight tunnel-like corridor with smooth grey concrete walls on both sides and a concrete floor. The ceiling is fitted with long, parallel rows of cold blue-white fluorescent light strips that run the length of the hallway on both the left and right sides, diminishing toward a vanishing point directly behind the woman. The lighting casts a cool blue cast over the entire scene, with brighter illumination along the ceiling strips and deepening shadow toward the back of the corridor.
+
+Compositionally the image is symmetrical and uses one-point perspective, placing the figure precisely on the central axis so the corridor walls and light strips converge behind her. The framing is a medium-to-full shot showing her from head to toe.
+
+Colours are dominated by desaturated cool blue, grey, and white, with the only strong accents being the red of her lipstick and the dark black of her boots. The overall mood is clinical, cold, and ominous, evoking a cinematic dystopian atmosphere. The medium is digital photography. There is no visible text, logo, or overlay.

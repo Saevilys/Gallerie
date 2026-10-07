@@ -1,0 +1,11 @@
+## Image (edited) by Layla - 2026-10-07 19:03 UTC
+### Context
+Edited with image_edit from /github/pages/gallerie/img/kim-yerin-v1.jpg with the instruction: "Replace her outfit with a long white military coat belted at the waist, falling to the knees, collar pulled up, silver epaulettes. Change her pose: she is walking toward the camera, hands in coat pockets, slight confident smirk. Change background to a wide empty boulevard at dusk, streetlights just turning on. Keep her face, hair, red lipstick exactly the same. Do not alter her face or age her."
+### Vision
+A full-length portrait of a young woman standing in the center of a wide, empty city boulevard. She faces the camera directly, walking forward with her hands tucked into the side pockets of a long white military-style coat that is belted at the waist and falls to about knee length. The coat has a closed collar pulled up to her chin, double-breasted silver-toned buttons down the front, and silver epaulettes on the shoulders. Below the coat hem she wears black leather boots. Her dark hair is long, straight, and parted to frame her face; she has red lipstick and a faint confident expression.
+
+The setting is an open asphalt roadway stretching into the distance, marked with white dashed lane lines. Tall streetlight poles line both sides of the boulevard; several lamps are lit, casting warm points of light against the cool evening sky. Low-rise buildings appear blurred in the background on both sides, with bokeh light orbs from distant streetlights and city illumination.
+
+Composition: a symmetrical, centered framing with the woman as the focal point, the converging road lines and streetlights creating depth toward a vanishing point behind her. The sky transitions from a deep blue at the top to a soft pinkish-purple and warm glow near the horizon, indicating dusk. Lighting is soft and ambient from the streetlights and fading natural light, giving the scene an even, flattering exposure on the subject.
+
+Medium: a color digital photograph with a shallow depth of field, keeping the woman sharp while the background is softly blurred. No visible text, logos, or watermark appears in the image. The overall mood is calm, elegant, and composed, with a cinematic dusk atmosphere.
