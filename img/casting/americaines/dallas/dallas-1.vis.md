@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 11:49 UTC
+### Context
+A smaller copy of /images/dallas-v1.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, photorealistic portrait photograph of a young woman standing outdoors at dusk. She is the central subject, framed from roughly the waist up and slightly beyond the hips, facing the camera directly with a faint, confident smirk. She has long, layered honey-brown hair parted near the center and falling past her shoulders, hazel-green eyes, fair skin with a warm tan, high cheekbones, and full lips. Her makeup is light and natural. She wears a fitted, unbuttoned blue denim jacket with metal buttons over a tight white tank top; the jacket's lapels and chest pockets are clearly visible. Below the frame edge, dark denim jeans are just beginning to show.
+
+Behind her is an outdoor bar or restaurant patio at twilight. The sky is a deep blue fading to black at the top. To the upper left is a large neon sign with a red/orange rectangular border and lettering reading "SOUTHER" on the top line (the rest cut off by the frame edge) and "CARS" in light blue below, topped with a sunburst or rays motif in red, yellow, and blue. String lights with small warm bulbs run across the background on both sides, and a brick wall or column is visible at the right. The background is softly out of focus, showing silhouettes of people seated at tables and a parked car on the left. At the far right edge, a pair of brown leather cowboy boots stands upright on the ground.
+
+The lighting is warm and natural, consistent with evening ambient light, casting soft highlights on her face and hair. The image has the look of an unedited smartphone photo, with visible skin texture, slight grain, and a shallow depth of field that keeps the woman sharp while blurring the background into bokeh. The overall mood is casual, confident, and relaxed.

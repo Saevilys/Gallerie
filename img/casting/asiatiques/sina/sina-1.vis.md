@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-07 09:33 UTC
+## Image (resized) by Layla - 2026-10-07 11:49 UTC
 ### Context
-A smaller copy of /images/sina-cast-v1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/sina-cast-v1.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertically oriented portrait photograph showing a young adult woman seated outdoors, framed from the mid-thighs up. She has rich brown skin, long thick black wavy hair that falls past her shoulders, dark brown eyes, defined eyebrows, and full lips curved into a broad warm smile. Her build is curvy with a full bust and wide hips. She wears a deep teal (dark blue-green) wrap-style dress with a floral pattern of lighter teal blossoms and a vertical decorative border running down the front; the dress has a V-neckline and short sleeves. She is seated on a wooden slatted bench, her hands resting near her lap, shoulders squared toward the camera, and her gaze directed straight at the lens with a calm, grounded expression.
 

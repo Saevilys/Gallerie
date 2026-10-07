@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 11:49 UTC
+### Context
+A smaller copy of /images/sydney-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical (portrait orientation) photorealistic photograph of a young woman photographed from the waist up, centered in the frame, looking directly toward the camera. She has long sun-bleached blonde hair that is loose, windblown, and partially falling across her face, with strands drifting to the right. Her complexion is fair and tanned, with visible freckles across the nose and cheeks and natural skin texture. She has blue-green eyes and a neutral, calm, slightly serious expression. She wears an open white long-sleeved linen shirt, sleeves rolled or pushed up, unbuttoned low enough to expose a light tan or beige bikini top and her décolletage; the shirt is cropped at the waist, leaving her midriff bare. Her figure is slim and athletic.
+
+Behind her is a coastal scene: to the left, a deep blue-green ocean with white-capped waves breaking against dark rocky outcrops; a sandstone cliff and headland rise on the left side of the background, with pale tan rock faces and some low coastal shrubbery near the bottom edge. The right background shows more cliffside and green vegetation. The sky above is bright, pale blue, slightly hazy.
+
+Lighting is bright natural late-morning sunlight, coming from the front-left, casting strong highlights on her hair and shoulders and producing some contrast on her face. The image has a natural, slightly grainy, raw smartphone-photograph quality with fine skin texture and no obvious retouching. Colors are dominated by warm skin tones, white, sandy tan rock, and blue-green sea. No visible text, watermark, or logo appears in the image. The overall mood is serene, sunlit, and candid.

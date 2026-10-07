@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 11:50 UTC
+### Context
+A smaller copy of /images/sina-2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, photorealistic portrait of a young adult woman of Polynesian/Samoan appearance, standing on a tropical beach. She has rich brown skin, a curvy build with a full bust and wide hips, thick long black wavy hair that falls past her shoulders and is swept to one side as if windblown, dark brown eyes, strong defined eyebrows, full lips, and a warm open-mouthed smile showing her teeth. Her expression is natural and joyful. She wears a white sleeveless sundress with thin spaghetti straps, a V-shaped neckline, and a smocked bodice; the dress is covered in a large tropical floral print of pink, red, orange, and yellow hibiscus and similar blossoms with green leaves. She stands facing the camera in a three-quarter stance, one arm relaxed at her side, the other slightly bent.
+
+The setting is a white sand beach at golden hour. Behind her, a calm turquoise lagoon or shallow sea meets the shoreline, with gentle waves. A small headland or island covered in green vegetation and a row of tall palm trees sits in the background to the right, and the horizon is soft under a pale blue sky with light clouds. The lighting is warm and soft, consistent with late-afternoon sun, casting a gentle glow on her skin and the scene.
+
+Composition: medium shot framing the woman from roughly mid-thigh upward, positioned slightly left of center, with the beach and water forming the background. The style mimics a raw, unedited smartphone photograph, with visible natural skin texture, slight grain, and realistic color rendering. There is no visible text, watermark, or caption in the image. The overall mood is warm, relaxed, and cheerful, evoking a candid vacation or lifestyle portrait.
