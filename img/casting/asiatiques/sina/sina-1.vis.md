@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-07 09:33 UTC
+### Context
+A smaller copy of /images/sina-cast-v1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented portrait photograph showing a young adult woman seated outdoors, framed from the mid-thighs up. She has rich brown skin, long thick black wavy hair that falls past her shoulders, dark brown eyes, defined eyebrows, and full lips curved into a broad warm smile. Her build is curvy with a full bust and wide hips. She wears a deep teal (dark blue-green) wrap-style dress with a floral pattern of lighter teal blossoms and a vertical decorative border running down the front; the dress has a V-neckline and short sleeves. She is seated on a wooden slatted bench, her hands resting near her lap, shoulders squared toward the camera, and her gaze directed straight at the lens with a calm, grounded expression.
+
+The setting is a tropical garden. Behind her is a wooden deck or patio surface, with green foliage, leafy bushes, and pink blossoms visible on the right, and a frangipani (plumeria) tree with white-and-yellow flowers and bare branches at the upper left. The background is softly blurred (shallow depth of field), with a hazy pale sky suggesting late afternoon light. The lighting is soft and warm, coming from the right, gently modelling her face and catching highlights on her cheek and shoulder, with natural skin texture and visible pores throughout the face.
+
+Composition places the woman slightly left of centre, occupying most of the frame, with the out-of-focus garden filling the upper and right portions. The image is rendered in a photorealistic style resembling a raw smartphone snapshot, with no painterly or illustrated effects and no visible text, watermarks, or overlays. The overall mood is serene, natural, and welcoming.

@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-07 09:33 UTC
+### Context
+A smaller copy of /images/aroha-cast-v1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, waist-up portrait of a young woman standing outdoors, positioned slightly right of centre, facing the camera. She has warm olive-brown skin, long dark brown wavy hair falling past her shoulders, and green eyes. A small dark mark resembling a moko-inspired tattoo or makeup accent sits just below her left eye, near her temple. Her expression is calm and composed with a direct, steady gaze. She wears a fitted black dress with three-quarter sleeves; the V-neckline is decorated with white embroidered koru (spiral) patterns radiating from the chest. The dress has a pleated lower section visible at the bottom of the frame.
+
+The background is a hilltop viewpoint overlooking a coastal city at sunset. On the left, a body of water (harbour) and a low landmass are visible. On the right, a blurred city skyline with high-rise buildings recedes into the distance under a soft, warm sky that grades from pale orange near the horizon to muted blue-grey above. Green foliage and grassy vegetation appear at the lower corners behind her. The light is soft, diffused evening light; her skin shows natural texture and the overall image reads as a photorealistic portrait with shallow depth of field, the background softly out of focus. There is no visible text. The mood is serene, confident, and contemplative.
