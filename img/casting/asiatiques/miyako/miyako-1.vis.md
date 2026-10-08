@@ -1,13 +1,9 @@
-## Image (resized) by Layla - 2026-10-08 11:52 UTC
+## Image (resized) by Layla - 2026-10-08 12:19 UTC
 ### Context
-A smaller copy of /images/miyako-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/miyako-1-2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
-A vertical, photorealistic portrait of a young East Asian woman, shot from the waist up and centered in the frame, looking directly at the camera with a cool, detached expression. She has long, straight black hair parted in the middle that falls past her shoulders, pale skin, dark almond-shaped eyes, and bold red lipstick. She wears a black silk slip dress with thin spaghetti straps and a draped, cowl-like neckline that catches the light. The framing is tight, a full-bust portrait with shallow depth of field, so the background is softly blurred into bokeh.
+A vertical, waist-up photograph of a young East Asian woman standing centered in a narrow city alley at night. She has pale skin, dark shoulder-length straight hair parted in the middle, dark eyes, and bold red lipstick, with a neutral, direct, cold gaze toward the camera. She wears a black silk slip dress with thin spaghetti straps and a V-shaped neckline; the fabric has soft folds and a slight sheen. Her slim arms hang at her sides, hands partly out of frame.
 
-The setting is a narrow urban alley at night, apparently in Tokyo. Behind her on both sides are rows of illuminated signs; the left side shows tall vertical neon signs glowing in red and pink with Japanese characters, while the right side has smaller blue and white signs. The ground is a wet street that reflects the neon light in streaks of magenta, pink, and blue. Pink and blue neon reflections play across the woman's face, shoulders, and hair, giving her skin a subtle colored cast.
+The setting is a rain-soaked back street flanked by buildings. The wet pavement in the foreground reflects streaks of magenta-pink neon light, and faint rain streaks are visible. White steam or mist rises around and behind the subject, softening the background. On the left side, a vertical red neon sign bearing Japanese characters (kanji) is mounted on a building wall; the characters are not clearly legible. The right side shows a building façade with a closed metal roller-shutter door and dim wall-mounted lights. Distant cool white and blue lights blur into the depth of the alley, creating a shallow depth of field.
 
-Color palette is dominated by deep blacks and dark shadows, punctuated by neon pinks, reds, and blues, with the subject's pale skin and red lips standing out against the dark dress. The lighting is low-key and cinematic, consistent with a night scene shot on a phone camera; there is visible grain and soft focus typical of raw, unedited smartphone photography.
-
-Visible text consists of Japanese characters on the neon signs in the background, rendered vertically on the glowing red/pink signs to the left and on the blue signs to the right; the characters are small and stylized and are not fully legible.
-
-The overall mood is moody, mysterious, and seductive, evoking a neon-noir, late-night atmosphere.
+Color palette is dominated by black (the dress and shadows), magenta and pink (neon reflections), with cool blue-white accents in the background. Lighting is ambient neon, casting a soft glow on the woman's face and glossy highlights on the damp ground. The image has the grainy, slightly soft, phone-camera quality of an unedited snapshot, with realistic skin texture and no painterly effect. The overall mood is moody, cinematic, and noir-like.
