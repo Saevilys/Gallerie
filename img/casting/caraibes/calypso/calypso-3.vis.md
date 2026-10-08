@@ -1,7 +1,19 @@
-## Image (resized) by Layla - 2026-10-08 12:25 UTC
+## Image (resized) by Layla - 2026-10-08 12:32 UTC
 ### Context
-A smaller copy of /images/calypso-3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/calypso-3-young.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
-A full-bust, waist-up portrait of a young Black woman with golden-brown skin, standing centered in the frame facing the camera directly. She has voluminous dark-brown natural curly hair piled high on her head, brown eyes, full lips, and subtle gold eyeshadow; her expression is calm and confident with a slight, closed-mouth gaze. She wears a black satin/silk slip dress with thin spaghetti straps and a draped, gathered neckline that sits low on the chest; the silk catches the light with soft sheen and folds. Her arms hang at her sides, and her curvy figure is visible from the waist up. The image imitates a raw, unedited smartphone photograph with visible skin texture and a slightly grainy, low-light quality.
+A vertical, photorealistic smartphone-style selfie portrait of a young woman, framed from the waist up, taken at night on a wet urban street.
 
-The setting is a wet city street at night, apparently in the rain, with fine streaks of falling rain visible across the upper portion of the frame. The pavement is glossy and reflective, mirroring colorful neon lights from storefronts on either side—warm orange, pink, yellow, and cool blue/purple glows streak across the wet ground and pool in puddles. In the background, rows of lit shopfronts recede down the street on both sides, with a few indistinct silhouettes of pedestrians and parked vehicles far down the road. A single bright street lamp glows near the top center of the background. Faint signage is visible on the buildings: on the left a vertical neon sign and on the right a horizontal neon sign, both mostly illegible though the right one appears to read in red/pink lettering. The overall lighting is moody and atmospheric, dominated by the multicolored neon reflections on the soaked street contrasting with the dark silhouette of the subject, who is lit more softly and evenly, likely by ambient streetlight. The mood is cinematic, intimate, and nocturnal, evoking a humid Caribbean city night. The composition places the figure squarely in the center against a symmetrical, vanishing-point perspective of the rainy street.
+**Subject:** A woman with golden-brown skin, voluminous natural curly (coily) hair in dark brown tones, brown eyes, full lips, and gold/golden eyeshadow. Her expression is calm and confident, looking directly at the camera with a slight, closed-lip look. She wears a black silk/satin slip dress with thin spaghetti straps and a low cowl neckline; the fabric catches the light with soft sheen and folds across her chest. Her right arm (right side of frame) extends toward the viewer, consistent with a selfie pose. Her figure is curvy.
+
+**Setting:** A nighttime city street, apparently Port of Spain, with rain falling. The pavement is wet and glossy, reflecting colored light from neon storefront signs. On the left side of the frame, a tall vertical neon sign glows in pink/red and blue, with stacked block letters reading approximately "TAGA" (top letter partially cut off). Other blurred neon and shop signage appear in pink, red, yellow, and white down the receding street. Indistinct figures and parked vehicles are faintly visible in the background. Rain streaks are visible across the darkened scene.
+
+**Composition and framing:** Central, eye-level portrait; the subject occupies the foreground and right-center of the frame, facing the camera. The street and neon signs recede diagonally to the left, creating depth. Shallow depth of field blurs the background while keeping the woman in sharp focus.
+
+**Color and light:** Dominant dark tones (black dress, night street) contrasted against warm skin tones and the bright pink, red, blue, and yellow neon glow. Wet pavement mirrors the neon in long streaks of color. Lighting on her face is soft and frontal, likely a mix of ambient street light and flash/phone light.
+
+**Style/medium:** Digital, photorealistic AI-generated image imitating a smartphone portrait photograph, with realistic skin texture, hair detail, and environmental reflections.
+
+**Visible text:** The vertical neon sign on the left reads (top to bottom) letters resembling "TAGA"; other background signs are too blurred to read.
+
+**Mood:** Intimate, confident, atmospheric, and slightly cinematic, evoked by the rain, neon glow, and the subject's direct gaze.
