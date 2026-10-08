@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-08 11:52 UTC
+### Context
+A smaller copy of /images/reyna-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic portrait photograph of a young woman, framed from roughly the waist up. She has long, straight, glossy black hair that falls past her shoulders, deep brown eyes looking directly at the camera, high cheekbones, full red-painted lips curved into a faint, knowing half-smile, and olive-toned skin with natural texture. She wears a fitted, deep red (burgundy) off-the-shoulder dress with short cap sleeves, the neckline sitting below her shoulders and revealing her collarbones and upper chest. She leans slightly against a rough, weathered stone or plaster wall that occupies the left edge of the frame; her left arm rests low, partly out of view.
+
+The setting is dimly lit and interior, consistent with a dim bar or cantina. The background on the right is dark and out of focus, with a single warm amber light source glowing in the upper-right corner, throwing soft, warm highlights across her face, chest, and shoulders while leaving the background in shadow. The overall palette is dominated by warm browns, ambers, and the saturated red of the dress against a muted, shadowy backdrop.
+
+Composition: a vertical, centered portrait, waist-up, with the woman occupying most of the frame and angled slightly toward the viewer. The framing is intimate and close. Light is low-key and directional from the right, creating strong contrast between illuminated skin and deep shadow. The medium appears as a naturalistic, slightly grainy smartphone-style photograph with realistic skin detail and no obvious artistic or painterly processing. No text, captions, logos, or watermarks are visible anywhere in the image. The mood is warm, sultry, intimate, and quietly confident.

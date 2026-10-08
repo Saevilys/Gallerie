@@ -1,0 +1,5 @@
+## Image (resized) by Layla - 2026-10-08 11:54 UTC
+### Context
+A smaller copy of /images/saga-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A portrait of a young woman positioned in the center of the frame, shot from the waist up. She has long straight platinum blonde hair parted in the middle, fair skin, light blue eyes, and a neutral, direct expression. She wears a thick black fur coat over a low-cut black top that exposes her chest and cleavage. Behind her is a nighttime coastal scene: a dark body of water with reflections of warm yellow lights, a small boat or pier visible to the left, and snow-covered ground in the foreground at the bottom edge. The sky above is dark with vivid green and purple streaks of the aurora borealis. The lighting is frontal and even on her face, contrasting with the dark background. The overall style mimics a casual smartphone snapshot with natural skin texture. There is no visible text. The mood is cold, seductive, and atmospheric.

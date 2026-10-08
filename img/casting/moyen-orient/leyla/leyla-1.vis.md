@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-08 11:53 UTC
+### Context
+A smaller copy of /images/leyla-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A nighttime photograph shot in a selfie style, framed from the waist up, showing a young woman with olive skin, long dark wavy hair falling past her shoulders, brown eyes, defined eyebrows, smoky eye makeup, and full lips. She has a slight, knowing smile and looks toward the camera. She wears a black velvet dress with thin spaghetti straps and a deep plunging neckline that reveals her cleavage; the fabric shows a soft sheen characteristic of velvet. Her right arm extends toward the camera, suggesting a selfie pose.
+
+The setting is a rooftop bar or terrace at night. Behind her, a cityscape stretches across the background with numerous small glowing lights—building windows and streetlights—against a dark night sky. On the left edge of the frame there is a wooden table or railing with a lit candle in a glass holder, casting warm orange light. Another faint light source appears at the far right edge. The lighting on her face and upper body is warm and directional, likely from nearby candles and ambient light, contrasting with the cool dark tones of the night.
+
+Composition: the woman occupies the center and right of the frame, facing slightly angled toward the viewer, with the city skyline filling the left and upper background. The depth of field keeps the city lights as a soft bokeh backdrop while her face and dress remain in focus. The medium is a candid smartphone-style photograph with natural skin texture and some grain, no visible artistic filters. There is no visible text, watermark, or interface elements. The overall mood is intimate, relaxed, and suggestive, evoking a social nightlife scene on a rooftop overlooking a lit city.
