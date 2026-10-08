@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-08 11:12 UTC
+### Context
+A smaller copy of /images/malaika-2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic, smartphone-style photograph of a woman captured from the waist up, positioned slightly left of center in the frame. She appears to be in her twenties, with light brown (métisse) skin showing natural texture and visible pores, large dark brown curly hair that is frizzy and sun-lit at the edges, brown eyes squinted in a wide, genuine laugh with her mouth open showing teeth, and a small dark beauty mark on her left cheek. She has full lips and full figures. She is wearing a white sundress with thin straps and a plunging V-neckline, printed with a tropical pattern of green leaves, orange hibiscus flowers, and yellow blooms. Her left arm hangs at her side.
+
+The setting is an outdoor fruit market. Behind her, blurred but recognizable, are market stalls laden with piles of fruit: bright yellow mangoes in green plastic crates, red apples or fruit in another green crate, and other yellow and green produce in blue crates to the left. A wooden stall structure and a corrugated roof overhead are faintly visible, with daylight filtering through. Two other people appear in the out-of-focus background: a man in a white shirt and a darker-clothed figure.
+
+The lighting is bright, warm morning sunlight, casting natural shadows and catching highlights on her hair and shoulders. The image has a candid, unposed quality with slight grain and shallow depth of field, consistent with a phone camera portrait. Colors are dominated by the warm skin tones, the vibrant fruit yellows and greens, and the multicolored dress pattern. There is no visible text in the image. The overall mood is cheerful, relaxed, and spontaneous.
