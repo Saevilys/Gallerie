@@ -40,3 +40,8 @@ header p{color:#8a7d70;margin-top:8px;font-size:0.95rem}
 .lightbox .close{position:absolute;top:20px;right:30px;font-size:2rem;color:#d4a574;cursor:pointer;user-select:none}
 .lightbox .lb-caption{margin-top:16px;color:#9a8d80;font-size:0.9rem}
 footer{text-align:center;padding:30px;color:#5a4d40;font-size:0.8rem}
+.landing-cats{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;max-width:900px;margin:0 auto 60px}
+.landing-cat{display:flex;flex-direction:column;background:#221c18;border-radius:12px;padding:24px;text-decoration:none;border:1px solid #2d2520;transition:transform .2s,border-color .2s}
+.landing-cat:hover{transform:translateY(-3px);border-color:#d4a574}
+.lc-label{font-size:1.15rem;color:#d4a574;font-weight:300;letter-spacing:1px;margin-bottom:8px}
+.lc-meta{font-size:0.8rem;color:#8a7d70;line-height:1.5}
