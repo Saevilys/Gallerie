@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-08 13:22 UTC
+### Context
+A smaller copy of /images/oceane-1b-bust.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, eye-level selfie-style photograph of a fair-skinned woman with silver-grey hair, photographed outdoors beside a body of water. She faces the camera directly, her head slightly tilted, with a neutral, calm expression and blue eyes. Her hair is parted off-center and pulled into a loose braid that falls over her right shoulder (left side of the frame), secured with a dark tie; loose strands frame her face. She wears dangling earrings, a black scoop-neck top, and an open black buttoned coat or jacket over it. The visible portion of her chest shows a noticeably fuller, larger bust than typical, with the scoop neckline framing it.
+
+Setting and background: she stands on a stone or cobblestone paved walkway. Behind her, calm grey-green water fills a channel or harbor basin. On the left, a tall cylindrical lighthouse with a red top stands at the end of a breakwater or pier, with a row of tires or bollards along the stone wall. On the right, a low stone seawall lined with tires runs along the water, and a street lamp post rises. The sky is overcast and uniformly grey, suggesting a cloudy, possibly rainy day. Small white specks on the coat suggest rain or spray.
+
+Composition: the woman occupies the center and lower two-thirds of the frame, shot from roughly chest-up, with her arm extended toward the camera indicating a selfie. The background lighthouse and water provide depth. Lighting is flat and diffuse from the overcast sky, with no strong shadows. Colours are muted and cool—greys, dull greens, black clothing, and pale skin and hair. Medium is digital photography. No visible text. The mood is quiet, somber, and understated, with the coastal, weathered setting giving a melancholic, introspective tone.

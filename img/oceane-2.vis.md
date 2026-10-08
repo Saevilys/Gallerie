@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-08 13:22 UTC
+### Context
+A smaller copy of /images/oceane-2-bust-v2-makeup.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A medium-shot portrait photograph of a young woman standing on a beach, facing the camera directly with a neutral, calm expression. She has pale skin and light grey-blond hair, styled with a single braid falling over her right shoulder (viewer's left), the rest loosely framing her face. She wears small dangling earrings. Her makeup is visibly applied: a soft smokey eye in brown and gold tones, thin black eyeliner along the lash line, mascara on the upper lashes, pink blush across both cheekbones, and a rosy nude lipstick. She is wearing a dark navy two-piece bikini with a strappy triangle top and matching bottoms; a small black clip or charm is visible on one strap. Her arms hang at her sides. The framing cuts off at the hips, centering her torso.
+
+Background: an overcast, cloudy grey sky over a calm sea with small white waves breaking near the shore. To the right are dark rocks along the coastline, and the sandy beach extends behind her. A few small stones lie on the sand to the right. The lighting is flat and diffused, consistent with an overcast day, producing soft shadows and even illumination across her face and body. The overall mood is serene and natural. The image appears to be a digitally edited photograph, with makeup enhancements added to an otherwise unaltered scene, pose, lighting, and bikini. No text is visible in the image.
