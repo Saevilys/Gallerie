@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-08 12:22 UTC
+### Context
+A smaller copy of /images/miyako-2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, waist-up portrait photograph of a young East Asian woman photographed to look like a raw phone-camera image, with visible grain and realistic skin texture. She has straight black hair falling past her shoulders, dark eyes, fair skin, and glossy red lips, and she gazes directly into the camera with a calm, slightly alluring expression. She wears a black leather moto-style jacket, open at the front with a diagonal zipper, a metal snap button on the collar, and silver hardware, over a plain black scoop-neck top that shows a sliver of chest. Her posture is relaxed, shoulders squared toward the viewer.
+
+The setting is a small, dimly lit bar or whisky lounge. Behind her on the left, wooden shelving is packed with liquor bottles—whiskies and other spirits—strongly backlit by warm amber light that glows through the glass. On the right, additional rows of bottles line shelves, and a wall-mounted clock and a sheet of paper (a menu or notice) are visible, both with text too small to read clearly. Some bottle labels are partially legible but mostly indistinct. Wisps of cigarette smoke drift upward on the right side of the frame, near a glass on the bar counter, where her hand appears to rest on a wooden surface.
+
+The overall lighting is warm amber and orange, creating a nocturnal, smoky atmosphere with deep shadows and a soft highlight on the woman's face. Colours are dominated by browns, golds, and blacks, punctuated by the red of her lips. The composition is centered and direct, shot from waist height looking straight on. The mood is intimate, moody, and seductive, evoking a late-night urban bar scene. No clear signage, watermarks, or readable text appear in the image.
