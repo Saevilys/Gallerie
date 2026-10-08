@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-08 11:17 UTC
+### Context
+A smaller copy of /images/malaika-3-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, smartphone-style photograph with a soft, slightly grainy, raw phone-camera quality and no visible artistic filtering. The frame is a waist-up portrait, centered, of a young woman with light brown métisse skin and natural, frizzy, shoulder-length reddish-brown curly hair. She has brown eyes, full lips, a visible beauty mark on her cheek, and smooth youthful skin with realistic texture. She wears a cropped, light beige or tan tank top with thin straps and light-wash denim shorts with a button and metal hardware. Her pose is relaxed, seated, with one arm resting near her hip, and she offers a gentle closed-mouth smile to the camera.
+
+Behind her is a tropical rainforest setting with a small cascading waterfall tumbling over mossy rocks into a pool of water at the left, surrounded by dense lush green foliage, vines, ferns, and tree trunks. Dappled sunlight filters through the canopy, producing bright highlights on the leaves and water and soft, natural light on her face and shoulders. The colours are dominated by greens from the vegetation, the white of the falling water, and the warm tan of her skin and top. No visible text, logos, captions, or overlays appear in the image. The overall mood is calm, natural, and casual, evoking a candid snapshot taken outdoors in a humid jungle environment.
