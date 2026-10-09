@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-09 17:51 UTC
+### Context
+A smaller copy of /images/peyton-v1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic, vertical portrait photograph of a young woman standing on a rooftop at dusk. She is centered in the frame from roughly the waist up, leaning her left forearm casually on a low brick parapet wall to her left (viewer's right). She has shoulder-length wavy chestnut-brown hair parted near the middle, fair skin with faint freckling across the nose and cheeks, brown-hazel eyes, and a subtle closed-mouth smirk. Her figure is curvy with a full bust and narrow waist. She wears a white ribbed tank top with a deep V-neckline that exposes her décolleté and cleavage, high-waisted black jeans buttoned at the waist, and a thin gold chain necklace with a small round pendant resting on her chest. Her right arm hangs at her side, mostly cropped out of frame.
+
+The setting is an urban rooftop. Behind her, on both sides, are strings of warm glowing bulb lights draped along brick railings; a few bulbs are visible on the left edge and along the right parapet. The background shows a blurred Manhattan-style city skyline silhouetted against a dusk sky that transitions from a soft pink-orange band near the horizon to a cooler blue-grey above. Rooftop structures and a tall building appear on the right.
+
+The lighting is warm and natural, an evening golden glow that illuminates her skin, the white top, and the string lights, contrasting with the cooler sky. The image has the look of an unedited smartphone photo, with realistic skin texture, mild grain, and a shallow depth of field that keeps the woman sharp while softening the skyline. No text is visible anywhere in the image. The overall mood is relaxed, warm, and casual, evoking a late-afternoon rooftop gathering.

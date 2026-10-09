@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-09 17:51 UTC
+### Context
+A smaller copy of /images/talia-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A photorealistic, smartphone-style portrait of a woman photographed from the waist up, centered in the frame and facing the camera with a broad, warm smile that shows her teeth. She has long, dark, wavy hair falling past her shoulders, brown skin, full lips, and a youthful face with visible pores and natural texture. She wears a loose, cream-colored sundress patterned with red, orange, and yellow flowers and green leaves, with thin straps and a deep plunging neckline that exposes her chest and cleavage. A thin gold chain with a small pendant necklace rests on her chest. In both hands she holds a yellow-green papaya, cradled against her midsection in a relaxed, candid pose.
+
+The background is a tropical fruit market, softly out of focus with shallow depth of field. Stalls of produce line the scene: stacks of yellow and orange fruit on the left, more fruit in blue crates on the right, and green produce throughout. A corrugated-roof shelter structure runs across the top of the frame, and a palm tree is visible at the upper right. The light is warm, natural morning daylight coming from the side, casting soft highlights on her face, chest, and the fruit. The overall mood is bright, casual, and cheerful, with the raw, grainy quality of an unedited phone camera. There is no visible text, signage, watermark, or logo in the image.

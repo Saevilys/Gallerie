@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-09 15:25 UTC
+### Context
+A smaller copy of /images/hanitra-v1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented, eye-level medium shot showing a young Black woman standing outdoors on a hillside, positioned at the center of the frame from roughly the waist up. She has deep brown skin, dark brown eyes, and dark black coily hair styled half-up, with the rest falling to her shoulders. Her expression is calm and confident, with a slight closed-mouth smile, and she looks directly toward the camera. She wears a fitted, short-sleeved mustard yellow blouse with a rounded neckline, and below it a beige wrap skirt featuring a subtle repeating geometric pattern, tied with a knot at the waist. Her arms hang at her sides; her body faces forward with a slight turn.
+
+Behind her, a sloping hillside crowded with colonial-era houses cascades downward in both directions; the buildings have pastel facades — white, pale blue, yellow, and pink — with red terracotta tile roofs and dark window openings. Hazy, muted hills and a pale, washed-out sky appear in the far background, suggesting atmospheric haze. A low stone or concrete edge is visible at the bottom right corner of the frame, implying a wall or viewpoint from which she stands.
+
+The framing centers the subject with the village as a layered backdrop, rendered slightly softer than the figure but still legible. Lighting is warm late-afternoon sunlight falling from the left, casting gentle shadows on the right side of her face and body. The dominant colours are warm yellows, terracotta, muted blues, and earthy beige. The image is photorealistic with a phone-camera quality — slightly grainy, natural skin texture with visible pores, and no painterly or brush effects. There is no visible text. The overall mood is warm, serene, and quietly confident.

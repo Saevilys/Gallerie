@@ -1,0 +1,11 @@
+## Image (resized) by Layla - 2026-10-09 15:25 UTC
+### Context
+A smaller copy of /images/hanitra-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical photograph shows a young Black woman in her early twenties seated on a set of weathered wooden steps outside a building. She has deep brown skin, dark brown eyes, and dark black coily hair pulled partly upward into a half-up style with loose curls framing her face. She wears a fitted white tank top and high-waisted blue denim shorts. Her pose is relaxed and candid: she sits with her legs folded, arms resting on her thighs, torso turned slightly toward the camera while she looks back over her shoulder with a faint, closed-mouth smile. The skin texture appears natural with visible detail and grain, consistent with a raw smartphone photograph rather than a studio or painterly render.
+
+The setting is a colonial-style wooden house with bright yellow-painted horizontal siding and faded green window frames and shutters; one window with green trim is visible to her right. A brick or reddish foundation runs along the base of the wall. Behind her, a clothesline strung along the building carries several items of drying laundry, including dark and patterned garments. To the left, the background recedes into a sunlit street scene with additional modest structures, a patch of greenery, and a bright sky, suggesting a narrow lane or alley in a residential area.
+
+Compositionally, the woman occupies the right and central portion of the frame from the thighs up, while the left side opens to the receding street, giving depth. The framing is a three-quarter to waist-up shot, slightly angled. Colors are warm and saturated: the yellow wall, green trim, blue denim, and her dark skin tone create a vivid palette, with the white tank top standing out against it. Light is bright midday sunlight, casting strong highlights on her shoulder, face, and the yellow wall, with soft shadows under her chin and along the steps. The overall mood is casual, warm, and candid, evoking an everyday outdoor moment.
+
+There is no visible text, signage, watermark, or logo in the image. The medium is a photorealistic photograph imitating grainy, unedited phone-camera quality, with realistic skin texture and no painterly or brushstroke effects.

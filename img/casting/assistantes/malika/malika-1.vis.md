@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-09 17:51 UTC
+### Context
+A smaller copy of /images/malika-v1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, portrait-orientation photograph showing a young Black woman standing on a tropical beach, framed from roughly the mid-thighs up to the top of her head, centered in the frame. She has warm dark-brown skin, full lips, and a bright open-mouthed smile showing her teeth. Her hair is styled in long, dark box braids that frame her face and hang past her shoulders to her chest. She wears a sleeveless bandeau top with a deep plunging neckline; the fabric is a multicolored pattern in red, orange, green, and blue with geometric and heart-shaped motifs, and the top exposes ample chest and cleavage. A thin gold chain with a small pendant rests on her upper chest. Below she wears high-waisted blue denim shorts with a visible front button and rolled cuffs, fitted to a narrow waist and curvy hips. Her left hand is placed on her hip, fingers spread, while her right arm hangs loosely at her side; she stands in a relaxed pose facing the camera.
+
+The background shows a sandy beach, turquoise water with a thin line of foam on the right, and several palm trees silhouetted against a pale blue sky. The light is warm and golden, consistent with late afternoon sun, falling softly on her skin. The image has the look of a candid smartphone photo with natural skin texture and no visible text or watermarks. The overall mood is relaxed, confident, and warm.

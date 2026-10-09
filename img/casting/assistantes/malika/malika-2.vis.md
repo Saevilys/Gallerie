@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-09 17:51 UTC
+### Context
+A smaller copy of /images/malika-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, waist-up portrait of a young Black woman leaning against a brightly painted mural wall on a city street at dusk. She has a warm dark brown complexion, long black box braids that fall past her shoulders and drape over her chest, and a broad, toothy smile. Her face is youthful with smooth skin and full lips. She wears a fitted green crop top with a deep V-neckline that reveals her cleavage, high-waisted khaki or beige pants with a visible button and fly, and a thin gold chain necklace with a small round pendant resting on her chest. Her pose is relaxed and confident, shoulders angled toward the camera, leaning back against the wall.
+
+The background shows a street scene: to the left, a row of low buildings with colorful murals and a pale yellow structure, a sidewalk, and a street stretching into the distance under a dark blue evening sky. A tall streetlight with a glowing yellow-orange bulb stands behind her head, casting warm light on the upper part of the wall and her hair. To the right, the mural she leans against features large painted forms in orange, blue, purple, and yellow, including a stylized orange sunburst-like shape with radiating segments and white star accents on a blue field.
+
+The image is framed from roughly the waist up, centered on the subject, with the mural filling the right side and the street receding on the left. The lighting is mixed: warm artificial streetlight from above and behind, cooler ambient dusk light in the background. The overall quality resembles a candid smartphone photo with soft focus, slight grain, and natural skin texture. The mood is casual, vibrant, and confident, with the colorful street art lending a lively, urban Jamaican atmosphere. No visible text appears in the image.
