@@ -1,0 +1,9 @@
+## Image (generated) by Layla - 2026-10-09 07:59 UTC
+### Context
+Made with image_generate from the prompt: "Photorealistic smartphone photo of a young Japanese woman named Aoi, early 20s, youthful face, smooth skin, light skin, short bob black hair, brown eyes, very large bust, wearing a black leather jacket over a white crop top, standing in a Tokyo arcade with neon game cabinets behind her, colorful reflections on her skin, raw unedited phone camera quality, realistic skin texture, no artistic style, black shorts"
+### Vision
+A vertical portrait of a young East Asian woman standing in the foreground of an indoor arcade. She has a short black bob haircut with straight bangs, brown eyes, fair skin, and a youthful face; she looks directly at the camera with a neutral, slightly soft expression. She wears a fitted white crop top that exposes her midriff, an open black leather jacket with silver snap buttons and a collar, and tight black shorts. Her body is positioned centrally, facing the viewer, with one arm hanging at her side.
+
+Behind her is a row of brightly lit arcade game cabinets and prize machines. On the left are pink-and-purple lit cabinets with colorful button panels and small screens; on the right are machines with green and white neon lighting and glass displays. The floor is light tile reflecting the multicolored lights. The overall lighting is vivid and somewhat washed out, with pink, purple, green, and white highlights reflecting on the subject and surroundings.
+
+The image has the look of a casual smartphone photo: soft focus, slight overexposure, and realistic skin texture rather than an artistic filter. Small Japanese text appears on the arcade cabinets in the background, but it is mostly blurred and not legible. The mood is casual and candid, like a spontaneous snapshot taken in a busy game center.

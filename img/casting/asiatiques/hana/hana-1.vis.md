@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-09 07:51 UTC
+### Context
+Made with image_generate from the prompt: "Photorealistic smartphone photo of a young Japanese woman, early 20s, youthful face, smooth skin, pale skin, long black hair tied in a loose bun, brown eyes, very large bust, wearing a white yukata with pink cherry blossom pattern, standing at a temple entrance in Kyoto, golden hour, raw unedited phone camera quality, realistic skin texture, no artistic style"
+### Vision
+A close-up portrait of a young East Asian woman, appearing Japanese, in her early twenties, photographed as if on a smartphone camera. She has long black hair gathered into a loose bun at the back of her head, with strands framing her face. Her skin is pale and smooth, with brown eyes and a neutral, softly closed-mouth expression. She wears a white yukata (summer kimono) printed with pink cherry blossom branches and flowers in a bold, saturated pink. The garment is visible from the chest up; her bust is prominent beneath the fabric.
+
+The framing is a tight, slightly angled selfie-style crop, with her face occupying the upper center and her shoulders and upper torso filling the lower portion. Her head is turned a small angle toward the camera.
+
+Behind her, the setting is a traditional Japanese temple or shrine entrance: dark wooden pillars, a heavy timbered roof with upturned eaves, and warm-toned wood surfaces. The scene is lit by golden-hour sunlight, casting a warm orange glow on the wooden architecture and a soft highlight across her face and hair. The background is shallow-focused and blurred, with indistinct figures of other people standing beneath the structure, suggesting a public tourist area. A patch of pale sky is visible at the upper right edge.
+
+Colors overall are dominated by warm golds and browns in the architecture, contrasted with the cool white of the yukata and the bright pink of the blossom pattern. The image is rendered to look like a raw, unedited phone photo, with natural skin texture and realistic lighting rather than an artistic or stylized finish. No text, captions, or overlays are visible anywhere in the frame. The mood is warm, serene, and candid, evoking a leisurely summer evening at a Kyoto temple.
