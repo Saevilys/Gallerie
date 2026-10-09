@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-09 10:56 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no brush texture, no artistic style. A 24-year-old Persian woman, warm golden skin, long black wavy hair, dark brown eyes, thick arched eyebrows, youthful face with smooth skin, full lips, a warm laugh. Slim curvy figure, fuller bust, small waist. She wears a white silk camisole and light grey linen pants, gold earrings. She's sitting on a Persian rug by a low table with a teapot, in a sunlit Tehran living room, books and plants around her, morning light through curtains. Youthful face, smooth skin.". Caption: "Soraya, v3 — l'assistante 🖤"
+### Vision
+A vertical, medium-close photograph showing a young woman sitting cross-legged on the floor in a sunlit indoor room. She appears to be in her mid-twenties, with warm tan skin, long dark wavy hair falling over her shoulders, dark brown eyes, thick arched eyebrows, and a broad, open-mouthed smile showing her teeth. She wears a white silk V-neck camisole with thin straps, light grey-beige linen trousers, and small round gold earrings. Her right arm rests on a low wooden table beside her, hand relaxed, while her left hand sits on her lap.
+
+To her left is a low wooden table or side table with a white ceramic teapot and a small stack of books with cream-colored spines. Behind her, a large window with sheer light curtains lets soft daylight into the room, and several potted green plants are arranged on shelves and the floor on both sides of the frame. A leafy plant is visible in the upper right corner.
+
+She sits on a red and burgundy Persian rug with intricate geometric and floral patterns in muted reds, blues, and cream. The wooden floor is partly visible at the edges. The background is softly blurred, indicating shallow depth of field, while the woman is in sharp focus.
+
+The image has the look of an unedited smartphone photo: natural, slightly grainy texture, warm color palette, and soft morning light. There is no visible text, watermark, or logo. The overall mood is warm, relaxed, and candid, suggesting a casual home setting.
