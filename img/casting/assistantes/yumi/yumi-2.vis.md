@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-09 22:29 UTC
+### Context
+A smaller copy of /images/goth-asie-yumi-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+The image shows a single young woman standing outdoors at night in front of what appears to be a Japanese Shinto shrine. She has pale skin, long straight jet-black hair cut with blunt bangs across the forehead, heavy dark eye makeup, and dark red lipstick. Her expression is calm and she looks directly at the camera. She wears a black gothic-style dress with loose wide sleeves and a deep V-neckline that exposes her chest; the fabric has a faint brocade or damask pattern. Around her waist is a wide obi-style sash in black and silver with an ornate metallic clasp, from which several silver chains hang down over the skirt. A black choker necklace with a small dark pendant rests on her throat, and additional silver chains drape from the neckline. The skirt has a thigh-high slit on her right side.
+
+She stands on stone steps. Behind her to the left is a tall stone lantern glowing with warm light, and more stone lanterns with warm flames line the path in the background. A wooden shrine structure with a traditional roof is partly visible through drifting white mist or fog. Dark trees fill the upper background, suggesting a forest setting.
+
+Compositionally, the woman is centered and fills most of the vertical frame in a medium-length shot, with her body angled slightly and her arms hanging at her sides. The lighting is dim and atmospheric, dominated by the warm orange glow of the lanterns against deep shadows, with mist softening the background. The overall style is photorealistic, with a grainy, raw phone-camera quality and visible skin texture, matching the description of an unedited smartphone photograph. There is no visible text in the image. The mood is quiet, eerie, and gothic.

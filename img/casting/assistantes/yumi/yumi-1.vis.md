@@ -1,0 +1,11 @@
+## Image (resized) by Layla - 2026-10-09 22:29 UTC
+### Context
+A smaller copy of /images/goth-asie-yumi.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A full-length, vertically framed portrait photograph of a young East Asian woman standing centered in a narrow nighttime alleyway. She has long, straight jet-black hair with blunt bangs covering her forehead, pale skin, heavy dark eye makeup, and dark red lipstick. Her expression is calm and neutral, looking directly at the camera. She is curvaceous, with a large bust and wide hips, and she stands upright with her arms relaxed at her sides.
+
+She wears a black velvet corset-style top with a very deep V-shaped décolleté, thin shoulder straps, and a row of small light-colored buttons or snaps down the center front. A silver chain necklace drapes from her neck across her chest and waist, looping diagonally over the corset. The lower half is a fitted black velvet skirt. The fabric has a soft sheen consistent with velvet.
+
+The setting is a narrow urban alley at night, consistent with a Tokyo street. Wet pavement reflects warm red and orange light on the left side and cooler purple and pink light on the right. Building walls flank both sides, with closed metal shutters or storefronts. Overhead, several illuminated signs and neon lights glow in pink, red, white, and yellow, including vertical pink neon signs on the right and a brighter cluster of signage on the upper left. The depth of the alley recedes into darkness behind the subject, with a shallow depth of field that blurs the background.
+
+The overall color palette is dominated by black and dark tones on the subject, contrasted by saturated neon reds, purples, and warm oranges reflecting on the wet ground. The lighting is low-key nighttime ambient light mixed with neon glow, producing highlights on her skin and the wet pavement. The image style imitates a raw smartphone photograph with slight grain and realistic skin texture, though the rendering is smooth and polished overall. The mood is atmospheric, nocturnal, and stylized, leaning gothic rather than futuristic or cyberpunk. No legible text or characters are clearly readable on the signs; the signage appears as glowing shapes and indistinct lettering. No visible watermarks, captions, or interface elements appear in the frame.
