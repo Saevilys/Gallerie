@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 22:25 UTC
+### Context
+A smaller copy of /images/eliska-cast-v2.png (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+### Vision
+A vertically oriented, photorealistic digital photograph styled to resemble an unedited smartphone picture, with visible fine grain and natural skin texture. The central subject is a young woman with a youthful, pale face, long straight black hair falling past her shoulders, and brown eyes behind small round wire-frame glasses. She wears a fitted, ribbed dark-green long-sleeve sweater, a thin gold chain necklace with a small round pendant resting at her upper chest, and dark black jeans with a metal button visible at the waist. Her expression is serious, neutral, and somewhat intense, with a direct gaze toward the camera; her body leans slightly against a tall wooden bookshelf that occupies the right side of the frame, its shelves packed with old, worn books of varying muted spine colours.
+
+The setting is an old, dusty library or study. To the left background is a tall multi-paned window emitting bright, hazy daylight that fills the room with warm, diffused light and illuminates floating dust particles in the air. The walls are rough, weathered plaster with earthy brown and grey tones. A small portion of a wooden table is visible at the lower-left edge. The lighting creates soft shadows across the woman's face and sweater, with the window light backlighting the left side of the scene.
+
+Composition places the woman in the centre, framed by the bookshelf on the right and the lit window on the left, producing a contained, intimate portrait. The colour palette is dominated by the deep green of the sweater, warm browns and ochres of the room and books, and the bright white-yellow of the window. There is no visible text, watermark, or interface element. The overall mood is quiet, still, and slightly secretive or contemplative.
