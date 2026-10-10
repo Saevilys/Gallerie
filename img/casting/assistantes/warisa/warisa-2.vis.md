@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 12:12 UTC
+### Context
+A smaller copy of /images/warisa-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical, photorealistic smartphone-style photograph of a young woman standing center-frame on a wet street at night. She has black hair pulled back into a loose low bun, round clear-framed glasses, dark brown almond-shaped eyes, and a slight closed-mouth smirk. Her skin is golden-brown with visible pores and natural texture. She wears a fitted black short-sleeved crop top with a wide scoop neckline that shows her midriff and décolleté, paired with high-waisted, wide-leg cream or beige linen pants. Her pose is relaxed, shoulders slightly angled, one arm hanging at her side.
+
+The setting is a bustling night market or street food alley. The background is heavily blurred with a shallow depth of field, showing indistinct silhouettes of other people walking on the left, a row of food stalls on the right with tables of dishes and a blue plastic stool, a hanging red paper lantern, and glowing signage. Light comes from warm artificial sources—neon and stall lamps—casting soft highlights on her face, chest, and arms, with subtle neon reflections on her skin and a wet, glistening sheen on the pavement.
+
+Visible signage includes a colorful neon sign in the upper-left corner with bright pink and green characters (not fully legible) and a yellow stall sign on the right bearing red text in an East Asian script (not fully legible); no other readable text appears in the image. The medium is a grainy, raw, unedited phone-camera aesthetic with realistic detail and no painterly or brushstroke effects. The overall mood is warm, humid, and casually sensual, capturing an evening atmosphere at a lively urban market.
