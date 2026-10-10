@@ -1,0 +1,10 @@
+/* === TOGGLE STYLES === */
+.person-block{transition:opacity .3s}
+.person-block.inactive{opacity:.35}
+.person-block.inactive .grid{pointer-events:none}
+.toggle-btn{display:inline-flex;align-items:center;gap:6px;margin-left:auto;cursor:pointer;user-select:none;font-size:0.72rem;color:#8a7d70;padding:4px 10px;border:1px solid #2d2520;border-radius:20px;transition:all .2s}
+.toggle-btn:hover{border-color:#d4a574;color:#d4a574}
+.toggle-dot{width:8px;height:8px;border-radius:50%;transition:background .3s,box-shadow .3s}
+.toggle-btn.on .toggle-dot{background:#4ade80;box-shadow:0 0 6px #4ade80}
+.toggle-btn.off .toggle-dot{background:#ef4444;box-shadow:0 0 6px #ef4444}
+.toggle-label{font-weight:600}

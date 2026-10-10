@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Casting — Assistantes</title>
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="toggle.css">
 </head>
 <body>
 <header>
@@ -29,7 +30,7 @@
 <div class="container">
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Yousra</span><span class="person-meta">25 ans · Maroc · Marseille</span></div>
+<div class="person-header"><span class="person-name">Yousra</span><span class="toggle-btn on" onclick="toggleAssistant(this,'yousra')"><span class="toggle-dot"></span>Active</span><span class="person-meta">25 ans · Maroc · Marseille</span></div>
 <p class="person-desc">Peau olive chaude, cheveux bruns ondulés mi-longs, sourcils épais, lèvres pleines. Cuisine baignée de lumière, rooftop sur le Vieux-Port, marché du matin — l'effortless maghrébin.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/yousra/yousra-1.jpg" data-cap="Yousra v1 — Cuisine, matin, cream knit, mug" loading="lazy"><div class="caption">Cuisine, matin</div></div>
@@ -39,7 +40,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Rafaela</span><span class="person-meta">24 ans · Brésil · Lisbonne</span></div>
+<div class="person-header"><span class="person-name">Rafaela</span><span class="toggle-btn on" onclick="toggleAssistant(this,'rafaela')"><span class="toggle-dot"></span>Active</span><span class="person-meta">24 ans · Brésil · Lisbonne</span></div>
 <p class="person-desc">Peau dorée, cheveux bruns ondulés longs, silhouette curvy. Balcon à Lisbonne, plage au sunset, café parisien — la chaleur brésilienne en exil.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/rafaela/rafaela-1.jpg" data-cap="Rafaela v1 — Balcon Lisbonne, soie noire, railing" loading="lazy"><div class="caption">Balcon, Lisbonne</div></div>
@@ -49,7 +50,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Soraya</span><span class="person-meta">24 ans · Iran · Dubai</span></div>
+<div class="person-header"><span class="person-name">Soraya</span><span class="toggle-btn on" onclick="toggleAssistant(this,'soraya')"><span class="toggle-dot"></span>Active</span><span class="person-meta">24 ans · Iran · Dubai</span></div>
 <p class="person-desc">Peau dorée, cheveux noirs ondulés, sourcils arqués, demi-sourire confiant. Lobby Dubai la nuit, rooftop Téhéran au crépuscule — la prestance persane.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/soraya/soraya-1.jpg" data-cap="Soraya v1 — Lobby Dubai nuit, wrap bordeaux, skyline" loading="lazy"><div class="caption">Lobby, Dubai</div></div>
@@ -59,7 +60,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Saba</span><span class="person-meta">25 ans · Éthiopie · Addis-Abeba</span></div>
+<div class="person-header"><span class="person-name">Saba</span><span class="toggle-btn on" onclick="toggleAssistant(this,'saba')"><span class="toggle-dot"></span>Active</span><span class="person-meta">25 ans · Éthiopie · Addis-Abeba</span></div>
 <p class="person-desc">Peau cuivrée, cheveux courts tressés plaqués, grands yeux noisette, features fins. Buste généreux. Café Addis, lumière eucalyptus, Lalibela — l'élégance immobile.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/saba/saba-1.jpg" data-cap="Saba v1 — Café Addis, camisole crème, eucalyptus" loading="lazy"><div class="caption">Café, Addis</div></div>
@@ -69,7 +70,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Aisyah</span><span class="person-meta">23 ans · Malaisie · Kuala Lumpur</span></div>
+<div class="person-header"><span class="person-name">Aisyah</span><span class="toggle-btn on" onclick="toggleAssistant(this,'aisyah')"><span class="toggle-dot"></span>Active</span><span class="person-meta">23 ans · Malaisie · Kuala Lumpur</span></div>
 <p class="person-desc">Peau brune dorée, longs cheveux noirs épais, yeux bruns, sourire doux. Marché nocturne, lanternes, Batu Caves, sarong coloré — la chaleur tropicale.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/aisyah/aisyah-1.jpg" data-cap="Aisyah v1 — Marché nocturne KL, camisole rouge, lanternes" loading="lazy"><div class="caption">Marché, KL</div></div>
@@ -79,7 +80,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Sakura</span><span class="person-meta">22 ans · Japon · Kyoto</span></div>
+<div class="person-header"><span class="person-name">Sakura</span><span class="toggle-btn on" onclick="toggleAssistant(this,'sakura')"><span class="toggle-dot"></span>Active</span><span class="person-meta">22 ans · Japon · Kyoto</span></div>
 <p class="person-desc">Peau claire chaude, cheveux bruns ondulés mi-longs, yeux noisette, traits doux, air posé. Buste généreux. Temple au lever du soleil, kimono entrouvert, érables en brume — la sérénité.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/sakura/sakura-1.jpg" data-cap="Sakura v1 — Kyoto temple, kimono cardigan, sunrise mist" loading="lazy"><div class="caption">Temple, Kyoto</div></div>
@@ -89,7 +90,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Soyoung</span><span class="person-meta">22 ans · Corée du Sud · Jeju</span></div>
+<div class="person-header"><span class="person-name">Soyoung</span><span class="toggle-btn on" onclick="toggleAssistant(this,'soyoung')"><span class="toggle-dot"></span>Active</span><span class="person-meta">22 ans · Corée du Sud · Jeju</span></div>
 <p class="person-desc">Peau claire chaude, cheveux noirs longs raides, yeux amande, sourire doux. Buste généreux, courbes, taille marquée. Plage de Jeju au coucher, camisole blanche — la douceur de l'île.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/soyoung/soyoung-1.jpg" data-cap="Soyoung v1 — Plage Jeju coucher, camisole blanche, vent marin" loading="lazy"><div class="caption">Plage, Jeju</div></div>
@@ -99,7 +100,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Talia</span><span class="person-meta">23 ans · Fidji · Savusavu</span></div>
+<div class="person-header"><span class="person-name">Talia</span><span class="toggle-btn on" onclick="toggleAssistant(this,'talia')"><span class="toggle-dot"></span>Active</span><span class="person-meta">23 ans · Fidji · Savusavu</span></div>
 <p class="person-desc">Peau dorée chaude, longs cheveux noirs ondulés, lèvres pleines, sourire éclatant. Buste généreux, courbes. Plage turquoise, marché tropical, coucher de soleil — l'île Pacifique.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/talia/talia-1.jpg" data-cap="Talia v1 — Plage Savusavu, golden hour, camisole crème" loading="lazy"><div class="caption">Plage, golden hour</div></div>
@@ -109,7 +110,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Malika</span><span class="person-meta">24 ans · Jamaïque · Negril</span></div>
+<div class="person-header"><span class="person-name">Malika</span><span class="toggle-btn on" onclick="toggleAssistant(this,'malika')"><span class="toggle-dot"></span>Active</span><span class="person-meta">24 ans · Jamaïque · Negril</span></div>
 <p class="person-desc">Peau brune chaude, longues box braids, lèvres pleines, sourire confiant. Buste généreux, courbes. Plage Negril, rue Kingston, feu de camp — la Caraïbe vibrante.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/malika/malika-1.jpg" data-cap="Malika v1 — Plage Negril, fin d'après-midi, bandeau coloré" loading="lazy"><div class="caption">Plage, Negril</div></div>
@@ -119,7 +120,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Peyton</span><span class="person-meta">23 ans · États-Unis · Brooklyn</span></div>
+<div class="person-header"><span class="person-name">Peyton</span><span class="toggle-btn on" onclick="toggleAssistant(this,'peyton')"><span class="toggle-dot"></span>Active</span><span class="person-meta">23 ans · États-Unis · Brooklyn</span></div>
 <p class="person-desc">Peau claire, taches de rousseur, cheveux châtain ondulés, yeux noisette, smirk détendu. Buste généreux, courbes. Rooftop Brooklyn, café matin, métro NYC — l'Américaine cool.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/peyton/peyton-1.jpg" data-cap="Peyton v1 — Brooklyn rooftop, soir, tank blanc, skyline" loading="lazy"><div class="caption">Rooftop, Brooklyn</div></div>
@@ -129,7 +130,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Tamar</span><span class="person-meta">22 ans · Israël · Tel Aviv</span></div>
+<div class="person-header"><span class="person-name">Tamar</span><span class="toggle-btn on" onclick="toggleAssistant(this,'tamar')"><span class="toggle-dot"></span>Active</span><span class="person-meta">22 ans · Israël · Tel Aviv</span></div>
 <p class="person-desc">Peau olive, longs cheveux noirs ondulés, yeux bruns, sourire discret. Buste généreux, courbes. Ruelle bougainvillier, rooftop bar, port méditerranéen — l'Israélienne solaire.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/tamar/tamar-1.jpg" data-cap="Tamar v1 — Ruelle pavée, après-midi, off-shoulder blanc, bougainvillier" loading="lazy"><div class="caption">Ruelle, après-midi</div></div>
@@ -141,7 +142,7 @@
 
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Daniela</span><span class="person-meta">25 ans · Colombie · Cartagena</span></div>
+<div class="person-header"><span class="person-name">Daniela</span><span class="toggle-btn on" onclick="toggleAssistant(this,'daniela')"><span class="toggle-dot"></span>Active</span><span class="person-meta">25 ans · Colombie · Cartagena</span></div>
 <p class="person-desc">Peau tan, cheveux bruns ondulés, yeux noisette. Silhouette très généreuse, buste impressionnant. Cartagena colonial, la chaleur caribéenne.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/latines/daniela/daniela-1.jpg" data-cap="Daniela v1 — Ruelle Cartagena, tank top blanc, lumière du jour" loading="lazy"><div class="caption">Cartagena, rue</div></div>
@@ -151,7 +152,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Linh</span><span class="person-meta">23 ans · Vietnam · Hanoï</span></div>
+<div class="person-header"><span class="person-name">Linh</span><span class="toggle-btn on" onclick="toggleAssistant(this,'linh')"><span class="toggle-dot"></span>Active</span><span class="person-meta">23 ans · Vietnam · Hanoï</span></div>
 <p class="person-desc">Cheveux noirs raides, peau claire, yeux amande. Ao dai en soie ivoire, café à Hanoï, lumière douce du matin à travers les jalousies.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/asiatiques/linh/linh-1.jpg" data-cap="Linh v1 — Café Hanoï, ao dai ivoire, lumière du matin" loading="lazy"><div class="caption">Café, Hanoï</div></div>
@@ -161,7 +162,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Meilin</span><span class="person-meta">22 ans · Malaisie · Kuala Lumpur</span></div>
+<div class="person-header"><span class="person-name">Meilin</span><span class="toggle-btn on" onclick="toggleAssistant(this,'meilin')"><span class="toggle-dot"></span>Active</span><span class="person-meta">22 ans · Malaisie · Kuala Lumpur</span></div>
 <p class="person-desc">Peau caramel, métisse chinoise-malaise, cheveux mi-longs ondulés. Night market aux lanternes, kopi ice en terrasse, l'énergie de KL.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/asiatiques/meilin/meilin-1.jpg" data-cap="Meilin v1 — Rooftop bar, top rouge épaule dénudée" loading="lazy"><div class="caption">Rooftop, top rouge</div></div>
@@ -171,7 +172,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Amina</span><span class="person-meta">26 ans · Somalie · Mogadiscio</span></div>
+<div class="person-header"><span class="person-name">Amina</span><span class="toggle-btn on" onclick="toggleAssistant(this,'amina')"><span class="toggle-dot"></span>Active</span><span class="person-meta">26 ans · Somalie · Mogadiscio</span></div>
 <p class="person-desc">Peau brune lumineuse, cheveux crépus longs. Terrasse ensoleillée, marché aux épices.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/africaines/amina/amina-1.jpg" data-cap="Amina v1 — Terrasse, soleil" loading="lazy"><div class="caption">Terrasse, soleil</div></div>
@@ -181,7 +182,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Astrid</span><span class="person-meta">24 ans · Suède · Stockholm</span></div>
+<div class="person-header"><span class="person-name">Astrid</span><span class="toggle-btn on" onclick="toggleAssistant(this,'astrid')"><span class="toggle-dot"></span>Active</span><span class="person-meta">24 ans · Suède · Stockholm</span></div>
 <p class="person-desc">Cheveux platine raides, peau porcelaine avec freckles, yeux bleus, pommettes hautes. Ruelle pavée au matin, café hygge sous la pluie, waterfront au crépuscule, l'âme scandinave.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/nordiques/astrid/astrid-1.jpg" data-cap="Astrid v1 — Ruelle Stockholm, pull crème, matin doré" loading="lazy"><div class="caption">Ruelle, matin</div></div>
@@ -191,7 +192,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Calypso</span><span class="person-meta">24 ans · Trinité-et-Tobago · Port of Spain</span></div>
+<div class="person-header"><span class="person-name">Calypso</span><span class="toggle-btn on" onclick="toggleAssistant(this,'calypso')"><span class="toggle-dot"></span>Active</span><span class="person-meta">24 ans · Trinité-et-Tobago · Port of Spain</span></div>
 <p class="person-desc">Femme fatale. Peau dorée, cheveux volumineux bouclés noirs avec reflets bruns chauds, yeux noisette, sourire confiant, fards dorés. Port of Spain crépuscule, Maracas golden hour, pluie néons — l'énergie caribéenne.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/caraibes/calypso/calypso-1.jpg" data-cap="Calypso v1 — Port of Spain crépuscule, camisole noire soie, or, heure bleue" loading="lazy"><div class="caption">Port of Spain, dusk</div></div>
@@ -201,7 +202,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Kaori</span><span class="person-meta">24 ans · Japon · Tokyo</span></div>
+<div class="person-header"><span class="person-name">Kaori</span><span class="toggle-btn on" onclick="toggleAssistant(this,'kaori')"><span class="toggle-dot"></span>Active</span><span class="person-meta">24 ans · Japon · Tokyo</span></div>
 <p class="person-desc">Peau porcelaine, frange droite, cheveux noirs raides. Une renarde : sourire mystérieux, ruelle néon et parapluie noir, sanctuaire aux lanternes, izakaya intime au amber.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/asiatiques/kaori/kaori-1.jpg" data-cap="Kaori v1 — Ruelle néon Tokyo, parapluie noir, kimono moderne" loading="lazy"><div class="caption">Ruelle, néon</div></div>
@@ -211,7 +212,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Clémence</span><span class="person-meta">24 ans · France · Toulouse</span></div>
+<div class="person-header"><span class="person-name">Clémence</span><span class="toggle-btn on" onclick="toggleAssistant(this,'clemence')"><span class="toggle-dot"></span>Active</span><span class="person-meta">24 ans · France · Toulouse</span></div>
 <p class="person-desc">Rousse auburn, peau porcelaine, taches de rousseur. Yeux verts, sourire doux. Le sud-ouest, la brique, la Garonne.</p>
 <div class="grid">
 <div class="card"><img src="img/clemence-1.jpg" data-cap="Clémence v1 — café en terrasse, pull crème, Toulouse" loading="lazy"><div class="caption">v1 — Café terrasse</div></div>
@@ -221,7 +222,7 @@
 </div>
 
 <div class="person-block">
-<div class="person-header"><span class="person-name">Yumi</span><span class="person-meta">22 ans · Japon · Tokyo</span></div>
+<div class="person-header"><span class="person-name">Yumi</span><span class="toggle-btn on" onclick="toggleAssistant(this,'yumi')"><span class="toggle-dot"></span>Active</span><span class="person-meta">22 ans · Japon · Tokyo</span></div>
 <p class="person-desc">Peau porcelaine, longs cheveux noirs raides, frange droite, maquillage sombre, rouge à lèvres rouge profond. Le goth assumé — ruelle néon, sanctuaire nocturne, rooftop sous la pluie. La beauté dans le sombre.</p>
 <div class="grid">
 <div class="card lvl1"><img src="img/casting/assistantes/yumi/yumi-1.jpg" data-cap="Yumi v1 — Ruelle néon Tokyo, corset velours noir, pluie" loading="lazy"><div class="caption">Ruelle, néon</div></div>
@@ -237,5 +238,30 @@
 <div class="lb-cap" id="lb-cap"></div>
 </div>
 <script src="lightbox.js"></script>
+
+<script>
+function toggleAssistant(btn, slug){
+  const block = btn.closest('.person-block');
+  const on = btn.classList.toggle('on');
+  block.classList.toggle('inactive', !on);
+  btn.lastChild.textContent = on ? 'Active' : 'Inactive';
+  try {
+    localStorage.setItem('assistant-' + slug, on ? '1' : '0');
+  } catch(e){}
+}
+document.addEventListener('DOMContentLoaded', function(){
+  document.querySelectorAll('.toggle-btn').forEach(function(btn){
+    var slug = btn.getAttribute('onclick').match(/'([^']+)'/)[1];
+    try {
+      var saved = localStorage.getItem('assistant-' + slug);
+      if (saved === '0') {
+        btn.classList.remove('on');
+        btn.closest('.person-block').classList.add('inactive');
+        btn.lastChild.textContent = 'Inactive';
+      }
+    } catch(e){}
+  });
+});
+</script>
 </body>
 </html>
